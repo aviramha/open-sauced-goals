@@ -1,45 +1,45 @@
 [
   {
     "full_name": "tokio-rs/tokio",
-    "stargazers_count": 16822,
-    "open_issues_count": 234,
-    "forks_count": 1566
+    "stargazers_count": 16868,
+    "open_issues_count": 232,
+    "forks_count": 1570
   },
   {
     "full_name": "metalbear-co/streammap-ext",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "MoonZoon/MoonZoon",
-    "stargazers_count": 1131,
+    "stargazers_count": 1135,
     "open_issues_count": 19,
     "forks_count": 48
   },
   {
     "full_name": "OpenRA/OpenRA",
-    "stargazers_count": 11599,
-    "open_issues_count": 1557,
-    "forks_count": 2422
+    "stargazers_count": 11610,
+    "open_issues_count": 1561,
+    "forks_count": 2426
   },
   {
     "full_name": "metalbear-co/mirrord",
-    "stargazers_count": 1320,
+    "stargazers_count": 1325,
     "open_issues_count": 25,
     "forks_count": 36
   },
   {
     "full_name": "bentheiii/rust_from_python_workshop",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "Rust-GCC/gccrs",
-    "stargazers_count": 1594,
-    "open_issues_count": 190,
-    "forks_count": 81
+    "stargazers_count": 1605,
+    "open_issues_count": 189,
+    "forks_count": 82
   },
   {
     "full_name": "headcrab-rs/headcrab",
@@ -62,12 +62,12 @@
   {
     "full_name": "frida/frida-gum",
     "stargazers_count": 494,
-    "open_issues_count": 115,
+    "open_issues_count": 114,
     "forks_count": 190
   },
   {
     "full_name": "la10736/rstest",
-    "stargazers_count": 443,
+    "stargazers_count": 444,
     "open_issues_count": 28,
     "forks_count": 22
   },
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "RustPython/RustPython",
-    "stargazers_count": 11715,
-    "open_issues_count": 264,
-    "forks_count": 821
+    "stargazers_count": 11732,
+    "open_issues_count": 261,
+    "forks_count": 823
   },
   {
     "full_name": "flier/rust-macho",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "seanmonstar/reqwest",
-    "stargazers_count": 5854,
-    "open_issues_count": 284,
-    "forks_count": 675
+    "stargazers_count": 5876,
+    "open_issues_count": 287,
+    "forks_count": 676
   },
   {
     "full_name": "johnstonskj/rust-search_path",
@@ -109,50 +109,50 @@
   },
   {
     "full_name": "extrawurst/gitui",
-    "stargazers_count": 8420,
-    "open_issues_count": 112,
-    "forks_count": 300
+    "stargazers_count": 8455,
+    "open_issues_count": 113,
+    "forks_count": 302
   },
   {
     "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 27216,
+    "stargazers_count": 27300,
     "open_issues_count": 8,
-    "forks_count": 1839
+    "forks_count": 1844
   },
   {
     "full_name": "commitizen-tools/commitizen",
-    "stargazers_count": 1170,
-    "open_issues_count": 82,
+    "stargazers_count": 1172,
+    "open_issues_count": 77,
     "forks_count": 142
   },
   {
     "full_name": "rust-lang/this-week-in-rust",
-    "stargazers_count": 1252,
-    "open_issues_count": 17,
-    "forks_count": 777
+    "stargazers_count": 1257,
+    "open_issues_count": 19,
+    "forks_count": 775
   },
   {
     "full_name": "linkerd/linkerd2-proxy",
-    "stargazers_count": 1523,
+    "stargazers_count": 1524,
     "open_issues_count": 5,
-    "forks_count": 224
+    "forks_count": 226
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 23760,
-    "open_issues_count": 359,
-    "forks_count": 1827
+    "stargazers_count": 23828,
+    "open_issues_count": 357,
+    "forks_count": 1834
   },
   {
     "full_name": "cirruslabs/tart",
-    "stargazers_count": 906,
-    "open_issues_count": 15,
+    "stargazers_count": 911,
+    "open_issues_count": 16,
     "forks_count": 11
   },
   {
     "full_name": "cisco-open/otel-py",
     "stargazers_count": 7,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 1
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "hasherezade/pe_to_shellcode",
-    "stargazers_count": 1451,
-    "open_issues_count": 11,
+    "stargazers_count": 1453,
+    "open_issues_count": 8,
     "forks_count": 321
   },
   {
     "full_name": "rust-lang/rfcs",
-    "stargazers_count": 4553,
-    "open_issues_count": 667,
+    "stargazers_count": 4560,
+    "open_issues_count": 668,
     "forks_count": 1364
   },
   {
     "full_name": "sansyrox/robyn",
-    "stargazers_count": 1449,
-    "open_issues_count": 58,
-    "forks_count": 54
+    "stargazers_count": 1450,
+    "open_issues_count": 59,
+    "forks_count": 55
   }
 ]
