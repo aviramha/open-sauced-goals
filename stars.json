@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "allero-io/allero",
+    "stargazers_count": 64,
+    "open_issues_count": 6,
+    "forks_count": 4
+  },
+  {
+    "full_name": "fonoster/fonoster",
+    "stargazers_count": 5176,
+    "open_issues_count": 28,
+    "forks_count": 226
+  },
+  {
     "full_name": "tzneal/supplant",
     "stargazers_count": 7,
     "open_issues_count": 0,
@@ -19,9 +31,9 @@
   },
   {
     "full_name": "toeverything/AFFiNE",
-    "stargazers_count": 8507,
+    "stargazers_count": 8742,
     "open_issues_count": 43,
-    "forks_count": 328
+    "forks_count": 335
   },
   {
     "full_name": "apono-io/weed",
@@ -37,51 +49,51 @@
   },
   {
     "full_name": "guyzyl/whatsapp-contact-sync",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "snoopForms/snoopforms",
-    "stargazers_count": 826,
-    "open_issues_count": 39,
-    "forks_count": 48
+    "stargazers_count": 855,
+    "open_issues_count": 40,
+    "forks_count": 51
   },
   {
     "full_name": "Nithur-M/work-from-anywhere",
-    "stargazers_count": 570,
+    "stargazers_count": 576,
     "open_issues_count": 3,
     "forks_count": 15
   },
   {
     "full_name": "kubernetes/enhancements",
-    "stargazers_count": 2394,
-    "open_issues_count": 304,
-    "forks_count": 1155
+    "stargazers_count": 2397,
+    "open_issues_count": 310,
+    "forks_count": 1159
   },
   {
     "full_name": "rstudio/py-shiny",
-    "stargazers_count": 213,
-    "open_issues_count": 61,
+    "stargazers_count": 217,
+    "open_issues_count": 64,
     "forks_count": 6
   },
   {
     "full_name": "jorgef/engineeringladders",
-    "stargazers_count": 6126,
+    "stargazers_count": 6193,
     "open_issues_count": 1,
-    "forks_count": 354
+    "forks_count": 357
   },
   {
     "full_name": "keyval-dev/odigos",
-    "stargazers_count": 100,
+    "stargazers_count": 109,
     "open_issues_count": 4,
     "forks_count": 4
   },
   {
     "full_name": "tokio-rs/tokio",
-    "stargazers_count": 17252,
-    "open_issues_count": 228,
-    "forks_count": 1598
+    "stargazers_count": 17299,
+    "open_issues_count": 233,
+    "forks_count": 1607
   },
   {
     "full_name": "metalbear-co/streammap-ext",
@@ -91,21 +103,21 @@
   },
   {
     "full_name": "MoonZoon/MoonZoon",
-    "stargazers_count": 1169,
-    "open_issues_count": 21,
+    "stargazers_count": 1171,
+    "open_issues_count": 22,
     "forks_count": 51
   },
   {
     "full_name": "OpenRA/OpenRA",
-    "stargazers_count": 11713,
-    "open_issues_count": 1570,
-    "forks_count": 2435
+    "stargazers_count": 11722,
+    "open_issues_count": 1569,
+    "forks_count": 2434
   },
   {
     "full_name": "metalbear-co/mirrord",
-    "stargazers_count": 1465,
-    "open_issues_count": 40,
-    "forks_count": 43
+    "stargazers_count": 1506,
+    "open_issues_count": 44,
+    "forks_count": 44
   },
   {
     "full_name": "bentheiii/rust_from_python_workshop",
@@ -115,8 +127,8 @@
   },
   {
     "full_name": "Rust-GCC/gccrs",
-    "stargazers_count": 1629,
-    "open_issues_count": 200,
+    "stargazers_count": 1633,
+    "open_issues_count": 204,
     "forks_count": 81
   },
   {
@@ -127,9 +139,9 @@
   },
   {
     "full_name": "medikoo/es5-ext",
-    "stargazers_count": 155,
+    "stargazers_count": 156,
     "open_issues_count": 46,
-    "forks_count": 70
+    "forks_count": 71
   },
   {
     "full_name": "aviramha/talks",
@@ -139,14 +151,14 @@
   },
   {
     "full_name": "frida/frida-gum",
-    "stargazers_count": 502,
+    "stargazers_count": 504,
     "open_issues_count": 116,
     "forks_count": 188
   },
   {
     "full_name": "la10736/rstest",
-    "stargazers_count": 466,
-    "open_issues_count": 28,
+    "stargazers_count": 469,
+    "open_issues_count": 29,
     "forks_count": 22
   },
   {
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "RustPython/RustPython",
-    "stargazers_count": 11965,
-    "open_issues_count": 280,
+    "stargazers_count": 11981,
+    "open_issues_count": 285,
     "forks_count": 829
-  },
-  {
-    "full_name": "flier/rust-macho",
-    "stargazers_count": 64,
-    "open_issues_count": 0,
-    "forks_count": 13
-  },
-  {
-    "full_name": "seanmonstar/reqwest",
-    "stargazers_count": 6022,
-    "open_issues_count": 290,
-    "forks_count": 692
   }
 ]
