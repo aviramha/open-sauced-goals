@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "rust-lang/stacker",
+    "stargazers_count": 188,
+    "open_issues_count": 8,
+    "forks_count": 32
+  },
+  {
     "full_name": "supertokens/supertokens-core",
-    "stargazers_count": 7060,
-    "open_issues_count": 77,
-    "forks_count": 238
+    "stargazers_count": 7087,
+    "open_issues_count": 78,
+    "forks_count": 241
   },
   {
     "full_name": "wnorcbrown/serde-numpy",
@@ -13,15 +19,15 @@
   },
   {
     "full_name": "allero-io/allero",
-    "stargazers_count": 84,
+    "stargazers_count": 87,
     "open_issues_count": 8,
     "forks_count": 5
   },
   {
     "full_name": "fonoster/fonoster",
-    "stargazers_count": 5194,
+    "stargazers_count": 5197,
     "open_issues_count": 25,
-    "forks_count": 230
+    "forks_count": 231
   },
   {
     "full_name": "tzneal/supplant",
@@ -43,14 +49,14 @@
   },
   {
     "full_name": "toeverything/AFFiNE",
-    "stargazers_count": 9317,
-    "open_issues_count": 44,
-    "forks_count": 358
+    "stargazers_count": 9494,
+    "open_issues_count": 40,
+    "forks_count": 364
   },
   {
     "full_name": "apono-io/weed",
     "stargazers_count": 56,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
@@ -67,45 +73,45 @@
   },
   {
     "full_name": "snoopForms/snoopforms",
-    "stargazers_count": 878,
-    "open_issues_count": 39,
-    "forks_count": 54
+    "stargazers_count": 887,
+    "open_issues_count": 41,
+    "forks_count": 55
   },
   {
     "full_name": "Nithur-M/work-from-anywhere",
-    "stargazers_count": 580,
+    "stargazers_count": 582,
     "open_issues_count": 3,
     "forks_count": 15
   },
   {
     "full_name": "kubernetes/enhancements",
-    "stargazers_count": 2412,
-    "open_issues_count": 311,
-    "forks_count": 1166
+    "stargazers_count": 2417,
+    "open_issues_count": 310,
+    "forks_count": 1169
   },
   {
     "full_name": "rstudio/py-shiny",
-    "stargazers_count": 219,
-    "open_issues_count": 67,
+    "stargazers_count": 222,
+    "open_issues_count": 66,
     "forks_count": 6
   },
   {
     "full_name": "jorgef/engineeringladders",
-    "stargazers_count": 6280,
+    "stargazers_count": 6307,
     "open_issues_count": 1,
-    "forks_count": 364
+    "forks_count": 366
   },
   {
     "full_name": "keyval-dev/odigos",
-    "stargazers_count": 115,
+    "stargazers_count": 117,
     "open_issues_count": 4,
     "forks_count": 4
   },
   {
     "full_name": "tokio-rs/tokio",
-    "stargazers_count": 17402,
-    "open_issues_count": 238,
-    "forks_count": 1619
+    "stargazers_count": 17427,
+    "open_issues_count": 232,
+    "forks_count": 1623
   },
   {
     "full_name": "metalbear-co/streammap-ext",
@@ -115,20 +121,20 @@
   },
   {
     "full_name": "MoonZoon/MoonZoon",
-    "stargazers_count": 1179,
-    "open_issues_count": 21,
+    "stargazers_count": 1186,
+    "open_issues_count": 22,
     "forks_count": 51
   },
   {
     "full_name": "OpenRA/OpenRA",
-    "stargazers_count": 11740,
-    "open_issues_count": 1571,
-    "forks_count": 2434
+    "stargazers_count": 11757,
+    "open_issues_count": 1574,
+    "forks_count": 2435
   },
   {
     "full_name": "metalbear-co/mirrord",
-    "stargazers_count": 1520,
-    "open_issues_count": 47,
+    "stargazers_count": 1524,
+    "open_issues_count": 51,
     "forks_count": 46
   },
   {
@@ -139,13 +145,13 @@
   },
   {
     "full_name": "Rust-GCC/gccrs",
-    "stargazers_count": 1635,
-    "open_issues_count": 202,
+    "stargazers_count": 1636,
+    "open_issues_count": 201,
     "forks_count": 81
   },
   {
     "full_name": "headcrab-rs/headcrab",
-    "stargazers_count": 826,
+    "stargazers_count": 827,
     "open_issues_count": 32,
     "forks_count": 32
   },
@@ -164,19 +170,13 @@
   {
     "full_name": "frida/frida-gum",
     "stargazers_count": 504,
-    "open_issues_count": 116,
-    "forks_count": 188
+    "open_issues_count": 117,
+    "forks_count": 187
   },
   {
     "full_name": "la10736/rstest",
     "stargazers_count": 474,
     "open_issues_count": 30,
     "forks_count": 22
-  },
-  {
-    "full_name": "platzio/backend",
-    "stargazers_count": 3,
-    "open_issues_count": 17,
-    "forks_count": 0
   }
 ]
