@@ -1,7 +1,19 @@
 [
   {
+    "full_name": "viperproject/prusti-dev",
+    "stargazers_count": 971,
+    "open_issues_count": 158,
+    "forks_count": 68
+  },
+  {
+    "full_name": "lewagon/wait-on-check-action",
+    "stargazers_count": 188,
+    "open_issues_count": 18,
+    "forks_count": 32
+  },
+  {
     "full_name": "MathisHammel/FADA",
-    "stargazers_count": 16,
+    "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -13,15 +25,15 @@
   },
   {
     "full_name": "sw-yx/devtools-angels",
-    "stargazers_count": 338,
+    "stargazers_count": 341,
     "open_issues_count": 7,
     "forks_count": 43
   },
   {
     "full_name": "ramitsurana/awesome-kubernetes",
-    "stargazers_count": 13132,
-    "open_issues_count": 6,
-    "forks_count": 2094
+    "stargazers_count": 13142,
+    "open_issues_count": 5,
+    "forks_count": 2098
   },
   {
     "full_name": "tinfoil-knight/gargoyle",
@@ -31,9 +43,9 @@
   },
   {
     "full_name": "rustls/rustls",
-    "stargazers_count": 3753,
-    "open_issues_count": 136,
-    "forks_count": 395
+    "stargazers_count": 3762,
+    "open_issues_count": 135,
+    "forks_count": 397
   },
   {
     "full_name": "EndBug/latest-tag",
@@ -49,8 +61,8 @@
   },
   {
     "full_name": "supertokens/supertokens-core",
-    "stargazers_count": 7273,
-    "open_issues_count": 75,
+    "stargazers_count": 7292,
+    "open_issues_count": 76,
     "forks_count": 250
   },
   {
@@ -61,15 +73,15 @@
   },
   {
     "full_name": "allero-io/allero",
-    "stargazers_count": 138,
-    "open_issues_count": 18,
+    "stargazers_count": 140,
+    "open_issues_count": 17,
     "forks_count": 11
   },
   {
     "full_name": "fonoster/fonoster",
-    "stargazers_count": 5357,
-    "open_issues_count": 24,
-    "forks_count": 239
+    "stargazers_count": 5361,
+    "open_issues_count": 25,
+    "forks_count": 242
   },
   {
     "full_name": "tzneal/supplant",
@@ -91,20 +103,20 @@
   },
   {
     "full_name": "toeverything/AFFiNE",
-    "stargazers_count": 10363,
-    "open_issues_count": 49,
-    "forks_count": 404
+    "stargazers_count": 10433,
+    "open_issues_count": 46,
+    "forks_count": 409
   },
   {
     "full_name": "apono-io/weed",
-    "stargazers_count": 57,
+    "stargazers_count": 58,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "aquaproj/aqua-registry",
     "stargazers_count": 39,
-    "open_issues_count": 213,
+    "open_issues_count": 212,
     "forks_count": 32
   },
   {
@@ -115,45 +127,45 @@
   },
   {
     "full_name": "formbricks/snoopforms",
-    "stargazers_count": 977,
-    "open_issues_count": 56,
-    "forks_count": 67
+    "stargazers_count": 985,
+    "open_issues_count": 57,
+    "forks_count": 71
   },
   {
     "full_name": "Nithur-M/work-from-anywhere",
-    "stargazers_count": 603,
+    "stargazers_count": 604,
     "open_issues_count": 3,
     "forks_count": 15
   },
   {
     "full_name": "kubernetes/enhancements",
-    "stargazers_count": 2461,
-    "open_issues_count": 295,
-    "forks_count": 1189
+    "stargazers_count": 2463,
+    "open_issues_count": 303,
+    "forks_count": 1190
   },
   {
     "full_name": "rstudio/py-shiny",
-    "stargazers_count": 243,
+    "stargazers_count": 246,
     "open_issues_count": 71,
     "forks_count": 12
   },
   {
     "full_name": "jorgef/engineeringladders",
-    "stargazers_count": 6511,
-    "open_issues_count": 1,
-    "forks_count": 384
+    "stargazers_count": 6533,
+    "open_issues_count": 2,
+    "forks_count": 385
   },
   {
     "full_name": "keyval-dev/odigos",
     "stargazers_count": 148,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 8
   },
   {
     "full_name": "tokio-rs/tokio",
-    "stargazers_count": 17833,
-    "open_issues_count": 236,
-    "forks_count": 1645
+    "stargazers_count": 17871,
+    "open_issues_count": 241,
+    "forks_count": 1651
   },
   {
     "full_name": "metalbear-co/streammap-ext",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "MoonZoon/MoonZoon",
-    "stargazers_count": 1239,
-    "open_issues_count": 26,
-    "forks_count": 55
-  },
-  {
-    "full_name": "OpenRA/OpenRA",
-    "stargazers_count": 11850,
-    "open_issues_count": 1570,
-    "forks_count": 2444
-  },
-  {
-    "full_name": "metalbear-co/mirrord",
-    "stargazers_count": 1605,
-    "open_issues_count": 56,
-    "forks_count": 49
+    "stargazers_count": 1249,
+    "open_issues_count": 25,
+    "forks_count": 56
   }
 ]
