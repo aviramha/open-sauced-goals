@@ -1,27 +1,27 @@
 [
   {
     "full_name": "containers/podman-desktop",
-    "stargazers_count": 1643,
-    "open_issues_count": 146,
-    "forks_count": 77
+    "stargazers_count": 1726,
+    "open_issues_count": 141,
+    "forks_count": 80
   },
   {
     "full_name": "SchemaStore/schemastore",
-    "stargazers_count": 1991,
-    "open_issues_count": 60,
-    "forks_count": 1132
+    "stargazers_count": 1999,
+    "open_issues_count": 58,
+    "forks_count": 1134
   },
   {
     "full_name": "ema/pets",
-    "stargazers_count": 413,
+    "stargazers_count": 415,
     "open_issues_count": 4,
     "forks_count": 5
   },
   {
     "full_name": "colin-kiegel/rust-derive-builder",
-    "stargazers_count": 818,
+    "stargazers_count": 821,
     "open_issues_count": 11,
-    "forks_count": 52
+    "forks_count": 53
   },
   {
     "full_name": "run-ai/genv",
@@ -31,14 +31,14 @@
   },
   {
     "full_name": "jwstegemann/fritz2",
-    "stargazers_count": 472,
-    "open_issues_count": 23,
-    "forks_count": 20
+    "stargazers_count": 474,
+    "open_issues_count": 25,
+    "forks_count": 21
   },
   {
     "full_name": "bytecodealliance/cap-std",
     "stargazers_count": 493,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 22
   },
   {
@@ -49,14 +49,14 @@
   },
   {
     "full_name": "pola-rs/polars",
-    "stargazers_count": 9149,
-    "open_issues_count": 272,
-    "forks_count": 504
+    "stargazers_count": 9200,
+    "open_issues_count": 266,
+    "forks_count": 510
   },
   {
     "full_name": "Qovery/Replibyte",
-    "stargazers_count": 3276,
-    "open_issues_count": 60,
+    "stargazers_count": 3286,
+    "open_issues_count": 59,
     "forks_count": 105
   },
   {
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "viperproject/prusti-dev",
-    "stargazers_count": 1156,
-    "open_issues_count": 172,
+    "stargazers_count": 1157,
+    "open_issues_count": 174,
     "forks_count": 78
   },
   {
     "full_name": "lewagon/wait-on-check-action",
-    "stargazers_count": 199,
+    "stargazers_count": 200,
     "open_issues_count": 18,
     "forks_count": 34
   },
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "sw-yx/devtools-angels",
-    "stargazers_count": 362,
+    "stargazers_count": 365,
     "open_issues_count": 8,
     "forks_count": 43
   },
   {
     "full_name": "ramitsurana/awesome-kubernetes",
-    "stargazers_count": 13216,
-    "open_issues_count": 11,
-    "forks_count": 2106
+    "stargazers_count": 13227,
+    "open_issues_count": 14,
+    "forks_count": 2107
   },
   {
     "full_name": "tinfoil-knight/gargoyle",
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "rustls/rustls",
-    "stargazers_count": 3884,
+    "stargazers_count": 3895,
     "open_issues_count": 133,
-    "forks_count": 409
+    "forks_count": 410
   },
   {
     "full_name": "EndBug/latest-tag",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 0,
     "forks_count": 8
   },
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "supertokens/supertokens-core",
-    "stargazers_count": 7533,
+    "stargazers_count": 7552,
     "open_issues_count": 81,
     "forks_count": 261
   },
@@ -151,8 +151,8 @@
   },
   {
     "full_name": "fonoster/fonoster",
-    "stargazers_count": 5393,
-    "open_issues_count": 27,
+    "stargazers_count": 5394,
+    "open_issues_count": 26,
     "forks_count": 248
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "Tres-Finance/tres-connect",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "matiasinsaurralde/facebook-tunnel",
-    "stargazers_count": 1255,
+    "stargazers_count": 1260,
     "open_issues_count": 10,
     "forks_count": 85
   },
   {
     "full_name": "toeverything/AFFiNE",
-    "stargazers_count": 10913,
+    "stargazers_count": 10967,
     "open_issues_count": 51,
-    "forks_count": 436
+    "forks_count": 439
   }
 ]
