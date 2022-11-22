@@ -1,37 +1,43 @@
 [
   {
+    "full_name": "schosterbarak/ghrr",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "containers/podman-desktop",
-    "stargazers_count": 1726,
-    "open_issues_count": 141,
-    "forks_count": 80
+    "stargazers_count": 1796,
+    "open_issues_count": 143,
+    "forks_count": 82
   },
   {
     "full_name": "SchemaStore/schemastore",
-    "stargazers_count": 1999,
-    "open_issues_count": 58,
-    "forks_count": 1134
+    "stargazers_count": 2005,
+    "open_issues_count": 60,
+    "forks_count": 1138
   },
   {
     "full_name": "ema/pets",
-    "stargazers_count": 415,
-    "open_issues_count": 4,
+    "stargazers_count": 417,
+    "open_issues_count": 3,
     "forks_count": 5
   },
   {
     "full_name": "colin-kiegel/rust-derive-builder",
-    "stargazers_count": 821,
-    "open_issues_count": 11,
+    "stargazers_count": 824,
+    "open_issues_count": 12,
     "forks_count": 53
   },
   {
     "full_name": "run-ai/genv",
     "stargazers_count": 40,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "jwstegemann/fritz2",
-    "stargazers_count": 474,
+    "stargazers_count": 475,
     "open_issues_count": 25,
     "forks_count": 21
   },
@@ -49,14 +55,14 @@
   },
   {
     "full_name": "pola-rs/polars",
-    "stargazers_count": 9200,
-    "open_issues_count": 266,
-    "forks_count": 510
+    "stargazers_count": 9266,
+    "open_issues_count": 289,
+    "forks_count": 516
   },
   {
     "full_name": "Qovery/Replibyte",
-    "stargazers_count": 3286,
-    "open_issues_count": 59,
+    "stargazers_count": 3295,
+    "open_issues_count": 60,
     "forks_count": 105
   },
   {
@@ -73,21 +79,21 @@
   },
   {
     "full_name": "viperproject/prusti-dev",
-    "stargazers_count": 1157,
-    "open_issues_count": 174,
+    "stargazers_count": 1160,
+    "open_issues_count": 175,
     "forks_count": 78
   },
   {
     "full_name": "lewagon/wait-on-check-action",
-    "stargazers_count": 200,
+    "stargazers_count": 203,
     "open_issues_count": 18,
     "forks_count": 34
   },
   {
     "full_name": "MathisHammel/FADA",
-    "stargazers_count": 22,
-    "open_issues_count": 0,
-    "forks_count": 2
+    "stargazers_count": 25,
+    "open_issues_count": 1,
+    "forks_count": 3
   },
   {
     "full_name": "twosigma/fastfreeze",
@@ -97,15 +103,15 @@
   },
   {
     "full_name": "sw-yx/devtools-angels",
-    "stargazers_count": 365,
+    "stargazers_count": 367,
     "open_issues_count": 8,
     "forks_count": 43
   },
   {
     "full_name": "ramitsurana/awesome-kubernetes",
-    "stargazers_count": 13227,
-    "open_issues_count": 14,
-    "forks_count": 2107
+    "stargazers_count": 13237,
+    "open_issues_count": 15,
+    "forks_count": 2108
   },
   {
     "full_name": "tinfoil-knight/gargoyle",
@@ -115,9 +121,9 @@
   },
   {
     "full_name": "rustls/rustls",
-    "stargazers_count": 3895,
-    "open_issues_count": 133,
-    "forks_count": 410
+    "stargazers_count": 3900,
+    "open_issues_count": 134,
+    "forks_count": 411
   },
   {
     "full_name": "EndBug/latest-tag",
@@ -133,9 +139,9 @@
   },
   {
     "full_name": "supertokens/supertokens-core",
-    "stargazers_count": 7552,
+    "stargazers_count": 7573,
     "open_issues_count": 81,
-    "forks_count": 261
+    "forks_count": 262
   },
   {
     "full_name": "wnorcbrown/serde-numpy",
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "fonoster/fonoster",
-    "stargazers_count": 5394,
-    "open_issues_count": 26,
-    "forks_count": 248
+    "stargazers_count": 5395,
+    "open_issues_count": 24,
+    "forks_count": 247
   },
   {
     "full_name": "tzneal/supplant",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "Tres-Finance/tres-connect",
-    "stargazers_count": 12,
+    "stargazers_count": 13,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "matiasinsaurralde/facebook-tunnel",
-    "stargazers_count": 1260,
+    "stargazers_count": 1262,
     "open_issues_count": 10,
     "forks_count": 85
-  },
-  {
-    "full_name": "toeverything/AFFiNE",
-    "stargazers_count": 10967,
-    "open_issues_count": 51,
-    "forks_count": 439
   }
 ]
