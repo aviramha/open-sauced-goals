@@ -7,38 +7,38 @@
   },
   {
     "full_name": "containers/podman-desktop",
-    "stargazers_count": 1796,
-    "open_issues_count": 143,
-    "forks_count": 82
+    "stargazers_count": 1831,
+    "open_issues_count": 144,
+    "forks_count": 83
   },
   {
     "full_name": "SchemaStore/schemastore",
-    "stargazers_count": 2005,
-    "open_issues_count": 60,
+    "stargazers_count": 2011,
+    "open_issues_count": 58,
     "forks_count": 1138
   },
   {
     "full_name": "ema/pets",
     "stargazers_count": 417,
-    "open_issues_count": 3,
+    "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "colin-kiegel/rust-derive-builder",
-    "stargazers_count": 824,
-    "open_issues_count": 12,
+    "stargazers_count": 826,
+    "open_issues_count": 14,
     "forks_count": 53
   },
   {
     "full_name": "run-ai/genv",
-    "stargazers_count": 40,
-    "open_issues_count": 1,
+    "stargazers_count": 42,
+    "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "jwstegemann/fritz2",
-    "stargazers_count": 475,
-    "open_issues_count": 25,
+    "stargazers_count": 478,
+    "open_issues_count": 20,
     "forks_count": 21
   },
   {
@@ -55,13 +55,13 @@
   },
   {
     "full_name": "pola-rs/polars",
-    "stargazers_count": 9266,
-    "open_issues_count": 289,
-    "forks_count": 516
+    "stargazers_count": 9305,
+    "open_issues_count": 284,
+    "forks_count": 519
   },
   {
     "full_name": "Qovery/Replibyte",
-    "stargazers_count": 3295,
+    "stargazers_count": 3298,
     "open_issues_count": 60,
     "forks_count": 105
   },
@@ -80,12 +80,12 @@
   {
     "full_name": "viperproject/prusti-dev",
     "stargazers_count": 1160,
-    "open_issues_count": 175,
-    "forks_count": 78
+    "open_issues_count": 176,
+    "forks_count": 79
   },
   {
     "full_name": "lewagon/wait-on-check-action",
-    "stargazers_count": 203,
+    "stargazers_count": 204,
     "open_issues_count": 18,
     "forks_count": 34
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "ramitsurana/awesome-kubernetes",
-    "stargazers_count": 13237,
+    "stargazers_count": 13249,
     "open_issues_count": 15,
-    "forks_count": 2108
+    "forks_count": 2109
   },
   {
     "full_name": "tinfoil-knight/gargoyle",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "rustls/rustls",
-    "stargazers_count": 3900,
+    "stargazers_count": 3909,
     "open_issues_count": 134,
-    "forks_count": 411
+    "forks_count": 412
   },
   {
     "full_name": "EndBug/latest-tag",
@@ -139,8 +139,8 @@
   },
   {
     "full_name": "supertokens/supertokens-core",
-    "stargazers_count": 7573,
-    "open_issues_count": 81,
+    "stargazers_count": 7584,
+    "open_issues_count": 82,
     "forks_count": 262
   },
   {
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "fonoster/fonoster",
-    "stargazers_count": 5395,
+    "stargazers_count": 5396,
     "open_issues_count": 24,
     "forks_count": 247
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "matiasinsaurralde/facebook-tunnel",
-    "stargazers_count": 1262,
+    "stargazers_count": 1264,
     "open_issues_count": 10,
     "forks_count": 85
   }
