@@ -1,25 +1,31 @@
 [
   {
+    "full_name": "dstackai/dstack",
+    "stargazers_count": 480,
+    "open_issues_count": 35,
+    "forks_count": 28
+  },
+  {
     "full_name": "run-house/runhouse",
     "stargazers_count": 23,
-    "open_issues_count": 0,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "burn-rs/burn",
-    "stargazers_count": 1382,
-    "open_issues_count": 16,
-    "forks_count": 45
+    "stargazers_count": 1393,
+    "open_issues_count": 15,
+    "forks_count": 44
   },
   {
     "full_name": "refined-github/refined-github",
-    "stargazers_count": 20135,
+    "stargazers_count": 20158,
     "open_issues_count": 164,
-    "forks_count": 1381
+    "forks_count": 1382
   },
   {
     "full_name": "zkat/miette",
-    "stargazers_count": 1227,
+    "stargazers_count": 1234,
     "open_issues_count": 44,
     "forks_count": 59
   },
@@ -37,8 +43,8 @@
   },
   {
     "full_name": "mozilla/sccache",
-    "stargazers_count": 3660,
-    "open_issues_count": 287,
+    "stargazers_count": 3670,
+    "open_issues_count": 288,
     "forks_count": 416
   },
   {
@@ -50,7 +56,7 @@
   {
     "full_name": "otterize/intents-operator",
     "stargazers_count": 64,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 2
   },
   {
@@ -67,15 +73,15 @@
   },
   {
     "full_name": "containers/podman-desktop",
-    "stargazers_count": 2117,
-    "open_issues_count": 158,
-    "forks_count": 109
+    "stargazers_count": 2133,
+    "open_issues_count": 171,
+    "forks_count": 110
   },
   {
     "full_name": "SchemaStore/schemastore",
-    "stargazers_count": 2084,
-    "open_issues_count": 56,
-    "forks_count": 1184
+    "stargazers_count": 2085,
+    "open_issues_count": 54,
+    "forks_count": 1185
   },
   {
     "full_name": "ema/pets",
@@ -85,13 +91,13 @@
   },
   {
     "full_name": "colin-kiegel/rust-derive-builder",
-    "stargazers_count": 882,
+    "stargazers_count": 883,
     "open_issues_count": 10,
     "forks_count": 55
   },
   {
     "full_name": "run-ai/genv",
-    "stargazers_count": 169,
+    "stargazers_count": 173,
     "open_issues_count": 6,
     "forks_count": 1
   },
@@ -103,27 +109,27 @@
   },
   {
     "full_name": "bytecodealliance/cap-std",
-    "stargazers_count": 499,
+    "stargazers_count": 500,
     "open_issues_count": 10,
     "forks_count": 20
   },
   {
     "full_name": "metalbear-co/macos-sip",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "pola-rs/polars",
-    "stargazers_count": 12809,
-    "open_issues_count": 400,
-    "forks_count": 640
+    "stargazers_count": 13008,
+    "open_issues_count": 411,
+    "forks_count": 647
   },
   {
     "full_name": "Qovery/Replibyte",
-    "stargazers_count": 3410,
-    "open_issues_count": 76,
-    "forks_count": 106
+    "stargazers_count": 3417,
+    "open_issues_count": 78,
+    "forks_count": 108
   },
   {
     "full_name": "Stebalien/xattr",
@@ -133,15 +139,15 @@
   },
   {
     "full_name": "jonatanSh/elf_to_shellcode",
-    "stargazers_count": 10,
-    "open_issues_count": 0,
+    "stargazers_count": 11,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "viperproject/prusti-dev",
     "stargazers_count": 1198,
-    "open_issues_count": 188,
-    "forks_count": 83
+    "open_issues_count": 191,
+    "forks_count": 84
   },
   {
     "full_name": "lewagon/wait-on-check-action",
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "MathisHammel/FADA",
-    "stargazers_count": 27,
+    "stargazers_count": 28,
     "open_issues_count": 1,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "twosigma/fastfreeze",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "sw-yx/devtools-angels",
-    "stargazers_count": 406,
+    "stargazers_count": 407,
     "open_issues_count": 8,
     "forks_count": 44
   },
   {
     "full_name": "ramitsurana/awesome-kubernetes",
-    "stargazers_count": 13481,
-    "open_issues_count": 8,
-    "forks_count": 2132
-  },
-  {
-    "full_name": "tinfoil-knight/gargoyle",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 13485,
+    "open_issues_count": 9,
+    "forks_count": 2136
   }
 ]
