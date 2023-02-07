@@ -1,39 +1,45 @@
 [
   {
+    "full_name": "raptor-ml/raptor",
+    "stargazers_count": 26,
+    "open_issues_count": 18,
+    "forks_count": 7
+  },
+  {
     "full_name": "fiberplane/autometrics-rs",
-    "stargazers_count": 242,
+    "stargazers_count": 357,
     "open_issues_count": 7,
     "forks_count": 2
   },
   {
     "full_name": "dstackai/dstack",
-    "stargazers_count": 484,
-    "open_issues_count": 38,
+    "stargazers_count": 485,
+    "open_issues_count": 37,
     "forks_count": 28
   },
   {
     "full_name": "run-house/runhouse",
-    "stargazers_count": 25,
-    "open_issues_count": 1,
+    "stargazers_count": 27,
+    "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "burn-rs/burn",
-    "stargazers_count": 1415,
-    "open_issues_count": 14,
-    "forks_count": 43
+    "stargazers_count": 1420,
+    "open_issues_count": 15,
+    "forks_count": 44
   },
   {
     "full_name": "refined-github/refined-github",
-    "stargazers_count": 20208,
+    "stargazers_count": 20235,
     "open_issues_count": 152,
-    "forks_count": 1387
+    "forks_count": 1392
   },
   {
     "full_name": "zkat/miette",
-    "stargazers_count": 1239,
+    "stargazers_count": 1244,
     "open_issues_count": 44,
-    "forks_count": 60
+    "forks_count": 62
   },
   {
     "full_name": "rusty-ferris-club/rustwrap",
@@ -49,8 +55,8 @@
   },
   {
     "full_name": "mozilla/sccache",
-    "stargazers_count": 3735,
-    "open_issues_count": 289,
+    "stargazers_count": 3747,
+    "open_issues_count": 287,
     "forks_count": 418
   },
   {
@@ -62,7 +68,7 @@
   {
     "full_name": "otterize/intents-operator",
     "stargazers_count": 64,
-    "open_issues_count": 0,
+    "open_issues_count": 2,
     "forks_count": 2
   },
   {
@@ -79,15 +85,15 @@
   },
   {
     "full_name": "containers/podman-desktop",
-    "stargazers_count": 2195,
-    "open_issues_count": 203,
+    "stargazers_count": 2243,
+    "open_issues_count": 207,
     "forks_count": 113
   },
   {
     "full_name": "SchemaStore/schemastore",
-    "stargazers_count": 2097,
-    "open_issues_count": 53,
-    "forks_count": 1194
+    "stargazers_count": 2101,
+    "open_issues_count": 54,
+    "forks_count": 1197
   },
   {
     "full_name": "ema/pets",
@@ -97,26 +103,26 @@
   },
   {
     "full_name": "colin-kiegel/rust-derive-builder",
-    "stargazers_count": 887,
+    "stargazers_count": 889,
     "open_issues_count": 10,
     "forks_count": 55
   },
   {
     "full_name": "run-ai/genv",
-    "stargazers_count": 175,
+    "stargazers_count": 177,
     "open_issues_count": 4,
     "forks_count": 1
   },
   {
     "full_name": "jwstegemann/fritz2",
-    "stargazers_count": 490,
-    "open_issues_count": 17,
+    "stargazers_count": 491,
+    "open_issues_count": 18,
     "forks_count": 21
   },
   {
     "full_name": "bytecodealliance/cap-std",
-    "stargazers_count": 502,
-    "open_issues_count": 9,
+    "stargazers_count": 504,
+    "open_issues_count": 10,
     "forks_count": 21
   },
   {
@@ -127,14 +133,14 @@
   },
   {
     "full_name": "pola-rs/polars",
-    "stargazers_count": 13368,
-    "open_issues_count": 432,
-    "forks_count": 665
+    "stargazers_count": 13499,
+    "open_issues_count": 446,
+    "forks_count": 674
   },
   {
     "full_name": "Qovery/Replibyte",
-    "stargazers_count": 3454,
-    "open_issues_count": 80,
+    "stargazers_count": 3463,
+    "open_issues_count": 79,
     "forks_count": 109
   },
   {
@@ -146,18 +152,18 @@
   {
     "full_name": "jonatanSh/elf_to_shellcode",
     "stargazers_count": 11,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "viperproject/prusti-dev",
-    "stargazers_count": 1202,
-    "open_issues_count": 202,
+    "stargazers_count": 1204,
+    "open_issues_count": 205,
     "forks_count": 84
   },
   {
     "full_name": "lewagon/wait-on-check-action",
-    "stargazers_count": 223,
+    "stargazers_count": 227,
     "open_issues_count": 22,
     "forks_count": 40
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 93,
     "open_issues_count": 6,
     "forks_count": 9
-  },
-  {
-    "full_name": "sw-yx/devtools-angels",
-    "stargazers_count": 408,
-    "open_issues_count": 8,
-    "forks_count": 44
   }
 ]
