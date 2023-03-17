@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "databricks/click",
+    "stargazers_count": 1380,
+    "open_issues_count": 31,
+    "forks_count": 83
+  },
+  {
     "full_name": "metalbear-co/farm-operator",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -7,44 +13,44 @@
   },
   {
     "full_name": "actions-rust-lang/setup-rust-toolchain",
-    "stargazers_count": 15,
+    "stargazers_count": 21,
     "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "dtolnay/rust-toolchain",
-    "stargazers_count": 460,
+    "stargazers_count": 465,
     "open_issues_count": 0,
     "forks_count": 18
   },
   {
     "full_name": "keephq/keep",
-    "stargazers_count": 859,
+    "stargazers_count": 866,
     "open_issues_count": 4,
     "forks_count": 20
   },
   {
     "full_name": "indygreg/apple-platform-rs",
-    "stargazers_count": 192,
+    "stargazers_count": 194,
     "open_issues_count": 36,
     "forks_count": 17
   },
   {
     "full_name": "clap-rs/clap",
-    "stargazers_count": 10880,
-    "open_issues_count": 228,
-    "forks_count": 899
+    "stargazers_count": 10904,
+    "open_issues_count": 230,
+    "forks_count": 905
   },
   {
     "full_name": "rust-lang/socket2",
-    "stargazers_count": 497,
+    "stargazers_count": 499,
     "open_issues_count": 21,
-    "forks_count": 147
+    "forks_count": 148
   },
   {
     "full_name": "traceloop/jest-opentelemetry",
-    "stargazers_count": 140,
-    "open_issues_count": 9,
+    "stargazers_count": 142,
+    "open_issues_count": 8,
     "forks_count": 4
   },
   {
@@ -61,38 +67,38 @@
   },
   {
     "full_name": "autometrics-dev/autometrics-rs",
-    "stargazers_count": 467,
-    "open_issues_count": 10,
+    "stargazers_count": 472,
+    "open_issues_count": 9,
     "forks_count": 5
   },
   {
     "full_name": "dstackai/dstack",
-    "stargazers_count": 572,
-    "open_issues_count": 30,
+    "stargazers_count": 581,
+    "open_issues_count": 31,
     "forks_count": 35
   },
   {
     "full_name": "run-house/runhouse",
-    "stargazers_count": 137,
+    "stargazers_count": 144,
     "open_issues_count": 2,
     "forks_count": 5
   },
   {
     "full_name": "burn-rs/burn",
-    "stargazers_count": 1703,
-    "open_issues_count": 33,
+    "stargazers_count": 1707,
+    "open_issues_count": 38,
     "forks_count": 50
   },
   {
     "full_name": "refined-github/refined-github",
-    "stargazers_count": 20530,
+    "stargazers_count": 20556,
     "open_issues_count": 141,
     "forks_count": 1408
   },
   {
     "full_name": "zkat/miette",
-    "stargazers_count": 1297,
-    "open_issues_count": 48,
+    "stargazers_count": 1302,
+    "open_issues_count": 47,
     "forks_count": 67
   },
   {
@@ -109,26 +115,26 @@
   },
   {
     "full_name": "mozilla/sccache",
-    "stargazers_count": 3985,
-    "open_issues_count": 279,
-    "forks_count": 434
+    "stargazers_count": 3999,
+    "open_issues_count": 280,
+    "forks_count": 435
   },
   {
     "full_name": "sstadick/cargo-bundle-licenses",
-    "stargazers_count": 62,
+    "stargazers_count": 63,
     "open_issues_count": 5,
     "forks_count": 2
   },
   {
     "full_name": "otterize/intents-operator",
     "stargazers_count": 68,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "otterize/network-mapper",
     "stargazers_count": 109,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
@@ -139,15 +145,15 @@
   },
   {
     "full_name": "containers/podman-desktop",
-    "stargazers_count": 2370,
-    "open_issues_count": 291,
-    "forks_count": 127
+    "stargazers_count": 2384,
+    "open_issues_count": 299,
+    "forks_count": 128
   },
   {
     "full_name": "SchemaStore/schemastore",
-    "stargazers_count": 2188,
-    "open_issues_count": 55,
-    "forks_count": 1234
+    "stargazers_count": 2194,
+    "open_issues_count": 58,
+    "forks_count": 1238
   },
   {
     "full_name": "ema/pets",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "colin-kiegel/rust-derive-builder",
-    "stargazers_count": 915,
+    "stargazers_count": 917,
     "open_issues_count": 9,
     "forks_count": 57
   },
   {
     "full_name": "run-ai/genv",
-    "stargazers_count": 189,
+    "stargazers_count": 190,
     "open_issues_count": 5,
     "forks_count": 1
   },
   {
     "full_name": "jwstegemann/fritz2",
-    "stargazers_count": 501,
-    "open_issues_count": 22,
-    "forks_count": 21
-  },
-  {
-    "full_name": "bytecodealliance/cap-std",
-    "stargazers_count": 509,
-    "open_issues_count": 9,
+    "stargazers_count": 504,
+    "open_issues_count": 21,
     "forks_count": 21
   }
 ]
