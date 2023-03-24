@@ -1,7 +1,7 @@
 [
   {
     "full_name": "databricks/click",
-    "stargazers_count": 1382,
+    "stargazers_count": 1384,
     "open_issues_count": 31,
     "forks_count": 83
   },
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "dtolnay/rust-toolchain",
-    "stargazers_count": 468,
+    "stargazers_count": 473,
     "open_issues_count": 0,
     "forks_count": 18
   },
   {
     "full_name": "keephq/keep",
-    "stargazers_count": 879,
+    "stargazers_count": 892,
     "open_issues_count": 4,
     "forks_count": 20
   },
@@ -37,67 +37,67 @@
   },
   {
     "full_name": "clap-rs/clap",
-    "stargazers_count": 10940,
-    "open_issues_count": 230,
+    "stargazers_count": 10966,
+    "open_issues_count": 232,
     "forks_count": 905
   },
   {
     "full_name": "rust-lang/socket2",
-    "stargazers_count": 501,
-    "open_issues_count": 23,
+    "stargazers_count": 503,
+    "open_issues_count": 24,
     "forks_count": 149
   },
   {
     "full_name": "traceloop/jest-opentelemetry",
-    "stargazers_count": 173,
-    "open_issues_count": 9,
+    "stargazers_count": 197,
+    "open_issues_count": 7,
     "forks_count": 4
   },
   {
     "full_name": "yoshidan/google-cloud-rust",
-    "stargazers_count": 74,
+    "stargazers_count": 75,
     "open_issues_count": 8,
     "forks_count": 32
   },
   {
     "full_name": "raptor-ml/raptor",
-    "stargazers_count": 66,
+    "stargazers_count": 69,
     "open_issues_count": 20,
     "forks_count": 10
   },
   {
     "full_name": "autometrics-dev/autometrics-rs",
-    "stargazers_count": 472,
-    "open_issues_count": 10,
+    "stargazers_count": 495,
+    "open_issues_count": 9,
     "forks_count": 5
   },
   {
     "full_name": "dstackai/dstack",
-    "stargazers_count": 584,
-    "open_issues_count": 32,
+    "stargazers_count": 586,
+    "open_issues_count": 37,
     "forks_count": 36
   },
   {
     "full_name": "run-house/runhouse",
-    "stargazers_count": 155,
-    "open_issues_count": 3,
+    "stargazers_count": 171,
+    "open_issues_count": 17,
     "forks_count": 5
   },
   {
     "full_name": "burn-rs/burn",
-    "stargazers_count": 1723,
-    "open_issues_count": 34,
+    "stargazers_count": 1734,
+    "open_issues_count": 31,
     "forks_count": 49
   },
   {
     "full_name": "refined-github/refined-github",
-    "stargazers_count": 20586,
+    "stargazers_count": 20610,
     "open_issues_count": 140,
-    "forks_count": 1409
+    "forks_count": 1410
   },
   {
     "full_name": "zkat/miette",
-    "stargazers_count": 1305,
+    "stargazers_count": 1311,
     "open_issues_count": 48,
     "forks_count": 67
   },
@@ -115,8 +115,8 @@
   },
   {
     "full_name": "mozilla/sccache",
-    "stargazers_count": 4012,
-    "open_issues_count": 282,
+    "stargazers_count": 4027,
+    "open_issues_count": 281,
     "forks_count": 435
   },
   {
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "otterize/intents-operator",
-    "stargazers_count": 68,
+    "stargazers_count": 69,
     "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "otterize/network-mapper",
-    "stargazers_count": 113,
-    "open_issues_count": 1,
-    "forks_count": 1
+    "stargazers_count": 149,
+    "open_issues_count": 0,
+    "forks_count": 5
   },
   {
     "full_name": "schosterbarak/ghrr",
@@ -145,19 +145,19 @@
   },
   {
     "full_name": "containers/podman-desktop",
-    "stargazers_count": 2401,
-    "open_issues_count": 300,
-    "forks_count": 130
+    "stargazers_count": 2414,
+    "open_issues_count": 313,
+    "forks_count": 131
   },
   {
     "full_name": "SchemaStore/schemastore",
-    "stargazers_count": 2198,
-    "open_issues_count": 64,
-    "forks_count": 1242
+    "stargazers_count": 2203,
+    "open_issues_count": 58,
+    "forks_count": 1244
   },
   {
     "full_name": "ema/pets",
-    "stargazers_count": 438,
+    "stargazers_count": 437,
     "open_issues_count": 1,
     "forks_count": 6
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "run-ai/genv",
-    "stargazers_count": 192,
+    "stargazers_count": 195,
     "open_issues_count": 5,
     "forks_count": 1
   },
   {
     "full_name": "jwstegemann/fritz2",
-    "stargazers_count": 504,
+    "stargazers_count": 505,
     "open_issues_count": 21,
     "forks_count": 21
   }
