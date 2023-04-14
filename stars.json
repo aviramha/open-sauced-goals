@@ -2,7 +2,7 @@
   {
     "full_name": "teletrace/teletrace",
     "stargazers_count": 38,
-    "open_issues_count": 27,
+    "open_issues_count": 24,
     "forks_count": 0
   },
   {
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "databricks/click",
-    "stargazers_count": 1394,
+    "stargazers_count": 1396,
     "open_issues_count": 31,
     "forks_count": 83
   },
@@ -25,20 +25,20 @@
   },
   {
     "full_name": "actions-rust-lang/setup-rust-toolchain",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 1,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "dtolnay/rust-toolchain",
-    "stargazers_count": 504,
+    "stargazers_count": 509,
     "open_issues_count": 0,
-    "forks_count": 18
+    "forks_count": 20
   },
   {
     "full_name": "keephq/keep",
-    "stargazers_count": 938,
-    "open_issues_count": 13,
+    "stargazers_count": 955,
+    "open_issues_count": 14,
     "forks_count": 23
   },
   {
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "clap-rs/clap",
-    "stargazers_count": 11093,
-    "open_issues_count": 227,
-    "forks_count": 915
+    "stargazers_count": 11106,
+    "open_issues_count": 228,
+    "forks_count": 918
   },
   {
     "full_name": "rust-lang/socket2",
-    "stargazers_count": 509,
-    "open_issues_count": 27,
+    "stargazers_count": 510,
+    "open_issues_count": 23,
     "forks_count": 152
   },
   {
     "full_name": "traceloop/jest-opentelemetry",
-    "stargazers_count": 215,
-    "open_issues_count": 10,
+    "stargazers_count": 216,
+    "open_issues_count": 9,
     "forks_count": 4
   },
   {
     "full_name": "yoshidan/google-cloud-rust",
-    "stargazers_count": 79,
-    "open_issues_count": 10,
-    "forks_count": 35
+    "stargazers_count": 80,
+    "open_issues_count": 11,
+    "forks_count": 36
   },
   {
     "full_name": "raptor-ml/raptor",
@@ -79,38 +79,38 @@
   },
   {
     "full_name": "autometrics-dev/autometrics-rs",
-    "stargazers_count": 559,
-    "open_issues_count": 11,
-    "forks_count": 7
+    "stargazers_count": 572,
+    "open_issues_count": 13,
+    "forks_count": 8
   },
   {
     "full_name": "dstackai/dstack",
-    "stargazers_count": 593,
-    "open_issues_count": 35,
-    "forks_count": 35
+    "stargazers_count": 611,
+    "open_issues_count": 37,
+    "forks_count": 36
   },
   {
     "full_name": "run-house/runhouse",
-    "stargazers_count": 236,
-    "open_issues_count": 28,
+    "stargazers_count": 243,
+    "open_issues_count": 30,
     "forks_count": 5
   },
   {
     "full_name": "burn-rs/burn",
-    "stargazers_count": 1967,
-    "open_issues_count": 30,
+    "stargazers_count": 1977,
+    "open_issues_count": 31,
     "forks_count": 55
   },
   {
     "full_name": "refined-github/refined-github",
-    "stargazers_count": 20795,
+    "stargazers_count": 20826,
     "open_issues_count": 151,
-    "forks_count": 1420
+    "forks_count": 1416
   },
   {
     "full_name": "zkat/miette",
-    "stargazers_count": 1336,
-    "open_issues_count": 47,
+    "stargazers_count": 1343,
+    "open_issues_count": 48,
     "forks_count": 69
   },
   {
@@ -127,14 +127,14 @@
   },
   {
     "full_name": "mozilla/sccache",
-    "stargazers_count": 4107,
-    "open_issues_count": 294,
-    "forks_count": 440
+    "stargazers_count": 4121,
+    "open_issues_count": 302,
+    "forks_count": 441
   },
   {
     "full_name": "sstadick/cargo-bundle-licenses",
     "stargazers_count": 63,
-    "open_issues_count": 6,
+    "open_issues_count": 4,
     "forks_count": 4
   },
   {
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "containers/podman-desktop",
-    "stargazers_count": 2524,
-    "open_issues_count": 348,
-    "forks_count": 136
+    "stargazers_count": 2534,
+    "open_issues_count": 346,
+    "forks_count": 137
   },
   {
     "full_name": "SchemaStore/schemastore",
-    "stargazers_count": 2230,
-    "open_issues_count": 60,
-    "forks_count": 1261
+    "stargazers_count": 2236,
+    "open_issues_count": 69,
+    "forks_count": 1267
   },
   {
     "full_name": "ema/pets",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "colin-kiegel/rust-derive-builder",
-    "stargazers_count": 929,
+    "stargazers_count": 928,
     "open_issues_count": 13,
     "forks_count": 60
   }
