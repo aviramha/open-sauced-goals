@@ -1,69 +1,69 @@
 [
   {
     "full_name": "goauthentik/authentik",
-    "stargazers_count": 4027,
+    "stargazers_count": 4046,
     "open_issues_count": 375,
     "forks_count": 318
   },
   {
     "full_name": "betwixt-labs/bebop",
-    "stargazers_count": 958,
+    "stargazers_count": 964,
     "open_issues_count": 28,
     "forks_count": 22
   },
   {
     "full_name": "frida/frida",
-    "stargazers_count": 12455,
-    "open_issues_count": 1326,
-    "forks_count": 1349
+    "stargazers_count": 12485,
+    "open_issues_count": 1327,
+    "forks_count": 1348
   },
   {
     "full_name": "Trolley-MGMT/trolleymgmt",
-    "stargazers_count": 45,
+    "stargazers_count": 48,
     "open_issues_count": 9,
     "forks_count": 8
   },
   {
     "full_name": "robusta-dev/chatgpt-yaml-generator",
-    "stargazers_count": 88,
-    "open_issues_count": 0,
-    "forks_count": 4
+    "stargazers_count": 91,
+    "open_issues_count": 1,
+    "forks_count": 5
   },
   {
     "full_name": "robusta-dev/robusta",
-    "stargazers_count": 1988,
+    "stargazers_count": 1992,
     "open_issues_count": 108,
     "forks_count": 172
   },
   {
     "full_name": "star-history/star-history",
-    "stargazers_count": 4360,
+    "stargazers_count": 4415,
     "open_issues_count": 19,
-    "forks_count": 211
+    "forks_count": 215
   },
   {
     "full_name": "litestar-org/litestar",
-    "stargazers_count": 2190,
-    "open_issues_count": 80,
-    "forks_count": 209
+    "stargazers_count": 2198,
+    "open_issues_count": 79,
+    "forks_count": 211
   },
   {
     "full_name": "mitsuhiko/rye",
-    "stargazers_count": 6328,
-    "open_issues_count": 39,
-    "forks_count": 140
+    "stargazers_count": 6358,
+    "open_issues_count": 41,
+    "forks_count": 141
   },
   {
     "full_name": "robusta-dev/krr",
-    "stargazers_count": 682,
-    "open_issues_count": 20,
-    "forks_count": 35
+    "stargazers_count": 691,
+    "open_issues_count": 22,
+    "forks_count": 37
   },
   {
     "full_name": "teletrace/teletrace",
-    "stargazers_count": 536,
+    "stargazers_count": 539,
     "open_issues_count": 23,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "iodapson/axum-Yew",
@@ -75,49 +75,49 @@
     "full_name": "databricks/click",
     "stargazers_count": 1405,
     "open_issues_count": 32,
-    "forks_count": 85
+    "forks_count": 84
   },
   {
     "full_name": "metalbear-co/farm-operator",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "actions-rust-lang/setup-rust-toolchain",
-    "stargazers_count": 30,
-    "open_issues_count": 0,
-    "forks_count": 7
+    "stargazers_count": 32,
+    "open_issues_count": 1,
+    "forks_count": 8
   },
   {
     "full_name": "dtolnay/rust-toolchain",
-    "stargazers_count": 580,
+    "stargazers_count": 582,
     "open_issues_count": 0,
     "forks_count": 23
   },
   {
     "full_name": "keephq/keep",
-    "stargazers_count": 1103,
-    "open_issues_count": 13,
-    "forks_count": 28
+    "stargazers_count": 1122,
+    "open_issues_count": 16,
+    "forks_count": 29
   },
   {
     "full_name": "indygreg/apple-platform-rs",
-    "stargazers_count": 221,
+    "stargazers_count": 222,
     "open_issues_count": 42,
     "forks_count": 23
   },
   {
     "full_name": "clap-rs/clap",
-    "stargazers_count": 11436,
-    "open_issues_count": 244,
-    "forks_count": 934
+    "stargazers_count": 11464,
+    "open_issues_count": 245,
+    "forks_count": 933
   },
   {
     "full_name": "rust-lang/socket2",
-    "stargazers_count": 534,
-    "open_issues_count": 23,
-    "forks_count": 164
+    "stargazers_count": 536,
+    "open_issues_count": 24,
+    "forks_count": 165
   },
   {
     "full_name": "traceloop/jest-opentelemetry",
@@ -127,8 +127,8 @@
   },
   {
     "full_name": "yoshidan/google-cloud-rust",
-    "stargazers_count": 99,
-    "open_issues_count": 11,
+    "stargazers_count": 100,
+    "open_issues_count": 12,
     "forks_count": 44
   },
   {
@@ -139,8 +139,8 @@
   },
   {
     "full_name": "autometrics-dev/autometrics-rs",
-    "stargazers_count": 632,
-    "open_issues_count": 11,
+    "stargazers_count": 634,
+    "open_issues_count": 10,
     "forks_count": 15
   },
   {
@@ -151,31 +151,31 @@
   },
   {
     "full_name": "run-house/runhouse",
-    "stargazers_count": 339,
+    "stargazers_count": 350,
     "open_issues_count": 24,
     "forks_count": 11
   },
   {
     "full_name": "burn-rs/burn",
-    "stargazers_count": 2280,
-    "open_issues_count": 32,
-    "forks_count": 67
+    "stargazers_count": 2298,
+    "open_issues_count": 33,
+    "forks_count": 68
   },
   {
     "full_name": "refined-github/refined-github",
-    "stargazers_count": 21262,
-    "open_issues_count": 125,
-    "forks_count": 1452
+    "stargazers_count": 21277,
+    "open_issues_count": 126,
+    "forks_count": 1453
   },
   {
     "full_name": "zkat/miette",
-    "stargazers_count": 1400,
+    "stargazers_count": 1405,
     "open_issues_count": 54,
     "forks_count": 78
   },
   {
     "full_name": "rusty-ferris-club/rustwrap",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 1,
     "forks_count": 1
   }
