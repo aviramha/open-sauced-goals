@@ -7,38 +7,38 @@
   },
   {
     "full_name": "console-rs/indicatif",
-    "stargazers_count": 3740,
-    "open_issues_count": 59,
-    "forks_count": 220
+    "stargazers_count": 3748,
+    "open_issues_count": 58,
+    "forks_count": 221
   },
   {
     "full_name": "3Hren/msgpack-rust",
-    "stargazers_count": 963,
-    "open_issues_count": 57,
-    "forks_count": 116
+    "stargazers_count": 965,
+    "open_issues_count": 58,
+    "forks_count": 117
   },
   {
     "full_name": "yonahd/kor",
-    "stargazers_count": 156,
-    "open_issues_count": 14,
-    "forks_count": 16
+    "stargazers_count": 159,
+    "open_issues_count": 12,
+    "forks_count": 17
   },
   {
     "full_name": "jamesmunns/postcard",
-    "stargazers_count": 600,
+    "stargazers_count": 602,
     "open_issues_count": 29,
     "forks_count": 58
   },
   {
     "full_name": "metalbear-co/mirrord-vscode",
-    "stargazers_count": 3,
-    "open_issues_count": 12,
+    "stargazers_count": 4,
+    "open_issues_count": 15,
     "forks_count": 8
   },
   {
     "full_name": "metalbear-co/mirrord-intellij",
     "stargazers_count": 3,
-    "open_issues_count": 27,
+    "open_issues_count": 24,
     "forks_count": 8
   },
   {
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "Codium-ai/pr-agent",
-    "stargazers_count": 2087,
-    "open_issues_count": 27,
+    "stargazers_count": 2125,
+    "open_issues_count": 22,
     "forks_count": 135
   },
   {
@@ -74,7 +74,7 @@
   {
     "full_name": "AvivRubys/bluesky-hebrew-feed",
     "stargazers_count": 3,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 1
   },
   {
@@ -86,74 +86,74 @@
   {
     "full_name": "dcramer/peated",
     "stargazers_count": 19,
-    "open_issues_count": 26,
+    "open_issues_count": 27,
     "forks_count": 3
   },
   {
     "full_name": "configu/configu",
-    "stargazers_count": 603,
-    "open_issues_count": 32,
+    "stargazers_count": 609,
+    "open_issues_count": 36,
     "forks_count": 31
   },
   {
     "full_name": "goauthentik/authentik",
-    "stargazers_count": 4600,
-    "open_issues_count": 434,
-    "forks_count": 364
+    "stargazers_count": 4622,
+    "open_issues_count": 437,
+    "forks_count": 366
   },
   {
     "full_name": "betwixt-labs/bebop",
-    "stargazers_count": 1033,
+    "stargazers_count": 1034,
     "open_issues_count": 26,
     "forks_count": 24
   },
   {
     "full_name": "frida/frida",
-    "stargazers_count": 13182,
-    "open_issues_count": 1393,
-    "forks_count": 1427
+    "stargazers_count": 13198,
+    "open_issues_count": 1398,
+    "forks_count": 1429
   },
   {
     "full_name": "Trolley-MGMT/trolleymgmt",
     "stargazers_count": 64,
-    "open_issues_count": 9,
+    "open_issues_count": 7,
     "forks_count": 12
   },
   {
     "full_name": "robusta-dev/chatgpt-yaml-generator",
-    "stargazers_count": 105,
+    "stargazers_count": 107,
     "open_issues_count": 1,
     "forks_count": 11
   },
   {
     "full_name": "robusta-dev/robusta",
-    "stargazers_count": 2157,
+    "stargazers_count": 2162,
     "open_issues_count": 132,
     "forks_count": 198
   },
   {
     "full_name": "star-history/star-history",
-    "stargazers_count": 4862,
+    "stargazers_count": 4871,
     "open_issues_count": 24,
-    "forks_count": 237
+    "forks_count": 236
   },
   {
     "full_name": "litestar-org/litestar",
-    "stargazers_count": 2859,
-    "open_issues_count": 51,
-    "forks_count": 248
+    "stargazers_count": 2877,
+    "open_issues_count": 57,
+    "forks_count": 252
   },
   {
     "full_name": "mitsuhiko/rye",
-    "stargazers_count": 7001,
-    "open_issues_count": 69,
+    "stargazers_count": 7018,
+    "open_issues_count": 71,
     "forks_count": 166
   },
   {
     "full_name": "robusta-dev/krr",
-    "stargazers_count": 1101,
-    "open_issues_count": 18,
-    "forks_count": 63
+    "stargazers_count": 1143,
+    "open_issues_count": 20,
+    "forks_count": 65
   },
   {
     "full_name": "teletrace/teletrace",
@@ -171,7 +171,7 @@
     "full_name": "databricks/click",
     "stargazers_count": 1422,
     "open_issues_count": 32,
-    "forks_count": 85
+    "forks_count": 84
   },
   {
     "full_name": "metalbear-co/farm-operator",
