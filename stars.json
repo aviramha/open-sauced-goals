@@ -1,19 +1,19 @@
 [
   {
     "full_name": "Schniz/fnm",
-    "stargazers_count": 13842,
+    "stargazers_count": 13878,
     "open_issues_count": 168,
     "forks_count": 386
   },
   {
     "full_name": "erxes/erxes",
-    "stargazers_count": 3274,
-    "open_issues_count": 770,
-    "forks_count": 1070
+    "stargazers_count": 3279,
+    "open_issues_count": 772,
+    "forks_count": 1073
   },
   {
     "full_name": "TheLunarCompany/lunar",
-    "stargazers_count": 27,
+    "stargazers_count": 34,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "nix-community/cache-nix-action",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 3,
     "forks_count": 1
   },
   {
     "full_name": "console-rs/indicatif",
-    "stargazers_count": 3815,
+    "stargazers_count": 3821,
     "open_issues_count": 63,
     "forks_count": 222
   },
@@ -43,14 +43,14 @@
   },
   {
     "full_name": "yonahd/kor",
-    "stargazers_count": 634,
-    "open_issues_count": 13,
+    "stargazers_count": 645,
+    "open_issues_count": 9,
     "forks_count": 48
   },
   {
     "full_name": "jamesmunns/postcard",
     "stargazers_count": 625,
-    "open_issues_count": 32,
+    "open_issues_count": 34,
     "forks_count": 59
   },
   {
@@ -62,7 +62,7 @@
   {
     "full_name": "metalbear-co/mirrord-intellij",
     "stargazers_count": 6,
-    "open_issues_count": 40,
+    "open_issues_count": 37,
     "forks_count": 8
   },
   {
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "hyperstackjs/hyperstack",
-    "stargazers_count": 362,
+    "stargazers_count": 363,
     "open_issues_count": 3,
     "forks_count": 13
   },
@@ -85,14 +85,14 @@
   },
   {
     "full_name": "Codium-ai/pr-agent",
-    "stargazers_count": 2562,
-    "open_issues_count": 25,
-    "forks_count": 191
+    "stargazers_count": 2583,
+    "open_issues_count": 24,
+    "forks_count": 192
   },
   {
     "full_name": "AdamRussak/k8f",
     "stargazers_count": 39,
-    "open_issues_count": 2,
+    "open_issues_count": 0,
     "forks_count": 5
   },
   {
@@ -110,32 +110,32 @@
   {
     "full_name": "dcramer/peated",
     "stargazers_count": 24,
-    "open_issues_count": 41,
+    "open_issues_count": 42,
     "forks_count": 3
   },
   {
     "full_name": "configu/configu",
-    "stargazers_count": 1465,
-    "open_issues_count": 38,
+    "stargazers_count": 1471,
+    "open_issues_count": 40,
     "forks_count": 85
   },
   {
     "full_name": "goauthentik/authentik",
-    "stargazers_count": 5026,
-    "open_issues_count": 473,
-    "forks_count": 399
+    "stargazers_count": 5050,
+    "open_issues_count": 466,
+    "forks_count": 401
   },
   {
     "full_name": "betwixt-labs/bebop",
-    "stargazers_count": 1057,
+    "stargazers_count": 1058,
     "open_issues_count": 26,
     "forks_count": 25
   },
   {
     "full_name": "frida/frida",
-    "stargazers_count": 13612,
-    "open_issues_count": 1427,
-    "forks_count": 1468
+    "stargazers_count": 13638,
+    "open_issues_count": 1430,
+    "forks_count": 1469
   },
   {
     "full_name": "Trolley-MGMT/trolleymgmt",
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "robusta-dev/robusta",
-    "stargazers_count": 2242,
-    "open_issues_count": 149,
-    "forks_count": 213
+    "stargazers_count": 2247,
+    "open_issues_count": 152,
+    "forks_count": 214
   },
   {
     "full_name": "star-history/star-history",
-    "stargazers_count": 5083,
-    "open_issues_count": 18,
-    "forks_count": 242
+    "stargazers_count": 5093,
+    "open_issues_count": 19,
+    "forks_count": 243
   },
   {
     "full_name": "litestar-org/litestar",
-    "stargazers_count": 3388,
-    "open_issues_count": 98,
-    "forks_count": 274
+    "stargazers_count": 3409,
+    "open_issues_count": 101,
+    "forks_count": 275
   },
   {
     "full_name": "mitsuhiko/rye",
-    "stargazers_count": 7488,
-    "open_issues_count": 81,
+    "stargazers_count": 7508,
+    "open_issues_count": 83,
     "forks_count": 183
   },
   {
     "full_name": "robusta-dev/krr",
-    "stargazers_count": 1440,
-    "open_issues_count": 32,
-    "forks_count": 75
+    "stargazers_count": 1461,
+    "open_issues_count": 33,
+    "forks_count": 76
   }
 ]
