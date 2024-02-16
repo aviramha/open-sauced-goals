@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "GREsau/schemars",
+    "stargazers_count": 647,
+    "open_issues_count": 130,
+    "forks_count": 193
+  },
+  {
     "full_name": "loco-rs/loco",
-    "stargazers_count": 2543,
-    "open_issues_count": 21,
+    "stargazers_count": 2564,
+    "open_issues_count": 25,
     "forks_count": 92
   },
   {
     "full_name": "emanuelef/daily-stars-explorer",
-    "stargazers_count": 27,
-    "open_issues_count": 7,
+    "stargazers_count": 30,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "regclient/regclient",
-    "stargazers_count": 975,
+    "stargazers_count": 978,
     "open_issues_count": 13,
-    "forks_count": 82
+    "forks_count": 83
   },
   {
     "full_name": "krustlet/oci-distribution",
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "tamasfe/aide",
-    "stargazers_count": 278,
-    "open_issues_count": 6,
-    "forks_count": 45
+    "stargazers_count": 280,
+    "open_issues_count": 10,
+    "forks_count": 46
   },
   {
     "full_name": "johalun/sysctl-rs",
@@ -37,25 +43,25 @@
   },
   {
     "full_name": "getzola/zola",
-    "stargazers_count": 12358,
-    "open_issues_count": 252,
-    "forks_count": 884
+    "stargazers_count": 12366,
+    "open_issues_count": 253,
+    "forks_count": 886
   },
   {
     "full_name": "atuinsh/atuin",
-    "stargazers_count": 15712,
-    "open_issues_count": 171,
-    "forks_count": 444
+    "stargazers_count": 15758,
+    "open_issues_count": 174,
+    "forks_count": 447
   },
   {
     "full_name": "Riskified/dynamic-environment",
-    "stargazers_count": 67,
+    "stargazers_count": 68,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "jef/streetmerchant",
-    "stargazers_count": 4943,
+    "stargazers_count": 4944,
     "open_issues_count": 17,
     "forks_count": 1320
   },
@@ -67,21 +73,21 @@
   },
   {
     "full_name": "Schniz/fnm",
-    "stargazers_count": 14645,
-    "open_issues_count": 184,
+    "stargazers_count": 14678,
+    "open_issues_count": 185,
     "forks_count": 398
   },
   {
     "full_name": "erxes/erxes",
-    "stargazers_count": 3353,
-    "open_issues_count": 248,
+    "stargazers_count": 3355,
+    "open_issues_count": 251,
     "forks_count": 1091
   },
   {
     "full_name": "TheLunarCompany/lunar",
-    "stargazers_count": 85,
+    "stargazers_count": 88,
     "open_issues_count": 1,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "konih/kubernetes-network-debugging",
@@ -97,32 +103,32 @@
   },
   {
     "full_name": "console-rs/indicatif",
-    "stargazers_count": 3980,
+    "stargazers_count": 3984,
     "open_issues_count": 68,
     "forks_count": 234
   },
   {
     "full_name": "3Hren/msgpack-rust",
-    "stargazers_count": 1034,
+    "stargazers_count": 1035,
     "open_issues_count": 62,
     "forks_count": 121
   },
   {
     "full_name": "yonahd/kor",
-    "stargazers_count": 770,
-    "open_issues_count": 13,
+    "stargazers_count": 773,
+    "open_issues_count": 11,
     "forks_count": 61
   },
   {
     "full_name": "jamesmunns/postcard",
-    "stargazers_count": 664,
+    "stargazers_count": 666,
     "open_issues_count": 39,
     "forks_count": 65
   },
   {
     "full_name": "metalbear-co/mirrord-vscode",
     "stargazers_count": 5,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 8
   },
   {
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "Codium-ai/pr-agent",
-    "stargazers_count": 3404,
-    "open_issues_count": 17,
-    "forks_count": 263
+    "stargazers_count": 3428,
+    "open_issues_count": 20,
+    "forks_count": 265
   },
   {
     "full_name": "AdamRussak/k8f",
@@ -172,11 +178,5 @@
     "stargazers_count": 25,
     "open_issues_count": 0,
     "forks_count": 25
-  },
-  {
-    "full_name": "dcramer/peated",
-    "stargazers_count": 36,
-    "open_issues_count": 51,
-    "forks_count": 7
   }
 ]
