@@ -1,27 +1,33 @@
 [
   {
+    "full_name": "allegroai/clearml",
+    "stargazers_count": 5224,
+    "open_issues_count": 448,
+    "forks_count": 627
+  },
+  {
     "full_name": "simonask/libyaml-safer",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "ente-io/ente",
-    "stargazers_count": 7218,
-    "open_issues_count": 86,
-    "forks_count": 450
+    "stargazers_count": 7267,
+    "open_issues_count": 89,
+    "forks_count": 456
   },
   {
     "full_name": "GREsau/schemars",
-    "stargazers_count": 695,
+    "stargazers_count": 697,
     "open_issues_count": 139,
     "forks_count": 202
   },
   {
     "full_name": "loco-rs/loco",
-    "stargazers_count": 3331,
-    "open_issues_count": 46,
-    "forks_count": 127
+    "stargazers_count": 3348,
+    "open_issues_count": 52,
+    "forks_count": 129
   },
   {
     "full_name": "emanuelef/daily-stars-explorer",
@@ -31,43 +37,43 @@
   },
   {
     "full_name": "regclient/regclient",
-    "stargazers_count": 1038,
+    "stargazers_count": 1043,
     "open_issues_count": 11,
-    "forks_count": 80
+    "forks_count": 79
   },
   {
     "full_name": "krustlet/oci-distribution",
-    "stargazers_count": 72,
-    "open_issues_count": 12,
+    "stargazers_count": 73,
+    "open_issues_count": 11,
     "forks_count": 43
   },
   {
     "full_name": "tamasfe/aide",
-    "stargazers_count": 317,
-    "open_issues_count": 9,
+    "stargazers_count": 320,
+    "open_issues_count": 10,
     "forks_count": 52
   },
   {
     "full_name": "johalun/sysctl-rs",
-    "stargazers_count": 49,
+    "stargazers_count": 50,
     "open_issues_count": 6,
     "forks_count": 20
   },
   {
     "full_name": "getzola/zola",
-    "stargazers_count": 12637,
-    "open_issues_count": 259,
-    "forks_count": 888
+    "stargazers_count": 12645,
+    "open_issues_count": 261,
+    "forks_count": 889
   },
   {
     "full_name": "atuinsh/atuin",
-    "stargazers_count": 17599,
-    "open_issues_count": 196,
+    "stargazers_count": 17648,
+    "open_issues_count": 190,
     "forks_count": 489
   },
   {
     "full_name": "Riskified/dynamic-environment",
-    "stargazers_count": 85,
+    "stargazers_count": 86,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -75,7 +81,7 @@
     "full_name": "jef/streetmerchant",
     "stargazers_count": 4952,
     "open_issues_count": 17,
-    "forks_count": 1308
+    "forks_count": 1307
   },
   {
     "full_name": "redefinedev/redefine-action",
@@ -85,19 +91,19 @@
   },
   {
     "full_name": "Schniz/fnm",
-    "stargazers_count": 15261,
+    "stargazers_count": 15313,
     "open_issues_count": 190,
-    "forks_count": 391
+    "forks_count": 390
   },
   {
     "full_name": "erxes/erxes",
-    "stargazers_count": 3411,
-    "open_issues_count": 254,
-    "forks_count": 1094
+    "stargazers_count": 3410,
+    "open_issues_count": 250,
+    "forks_count": 1095
   },
   {
     "full_name": "TheLunarCompany/lunar",
-    "stargazers_count": 96,
+    "stargazers_count": 97,
     "open_issues_count": 1,
     "forks_count": 4
   },
@@ -115,7 +121,7 @@
   },
   {
     "full_name": "console-rs/indicatif",
-    "stargazers_count": 4090,
+    "stargazers_count": 4099,
     "open_issues_count": 71,
     "forks_count": 234
   },
@@ -127,13 +133,13 @@
   },
   {
     "full_name": "yonahd/kor",
-    "stargazers_count": 862,
-    "open_issues_count": 9,
-    "forks_count": 70
+    "stargazers_count": 865,
+    "open_issues_count": 16,
+    "forks_count": 71
   },
   {
     "full_name": "jamesmunns/postcard",
-    "stargazers_count": 703,
+    "stargazers_count": 704,
     "open_issues_count": 48,
     "forks_count": 71
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "Codium-ai/pr-agent",
-    "stargazers_count": 4027,
-    "open_issues_count": 19,
-    "forks_count": 317
-  },
-  {
-    "full_name": "AdamRussak/k8f",
-    "stargazers_count": 40,
-    "open_issues_count": 0,
-    "forks_count": 5
+    "stargazers_count": 4052,
+    "open_issues_count": 21,
+    "forks_count": 321
   }
 ]
