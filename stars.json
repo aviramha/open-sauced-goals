@@ -13,14 +13,14 @@
   },
   {
     "full_name": "chartdb/chartdb",
-    "stargazers_count": 3224,
-    "open_issues_count": 19,
-    "forks_count": 160
+    "stargazers_count": 3299,
+    "open_issues_count": 18,
+    "forks_count": 162
   },
   {
     "full_name": "martinvonz/jj",
-    "stargazers_count": 8292,
-    "open_issues_count": 433,
+    "stargazers_count": 8308,
+    "open_issues_count": 437,
     "forks_count": 284
   },
   {
@@ -31,27 +31,27 @@
   },
   {
     "full_name": "celery/kombu",
-    "stargazers_count": 2865,
-    "open_issues_count": 209,
-    "forks_count": 927
+    "stargazers_count": 2866,
+    "open_issues_count": 211,
+    "forks_count": 928
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 29423,
+    "stargazers_count": 29482,
     "open_issues_count": 397,
-    "forks_count": 1615
+    "forks_count": 1616
   },
   {
     "full_name": "EmbarkStudios/cargo-deny",
-    "stargazers_count": 1704,
+    "stargazers_count": 1707,
     "open_issues_count": 58,
     "forks_count": 83
   },
   {
     "full_name": "actix/actix",
-    "stargazers_count": 8590,
+    "stargazers_count": 8595,
     "open_issues_count": 36,
-    "forks_count": 652
+    "forks_count": 651
   },
   {
     "full_name": "siketyan/hyper-proxy2",
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "mehcode/config-rs",
-    "stargazers_count": 2558,
+    "stargazers_count": 2565,
     "open_issues_count": 134,
     "forks_count": 213
   },
   {
     "full_name": "daytonaio/daytona",
-    "stargazers_count": 8363,
-    "open_issues_count": 106,
-    "forks_count": 774
+    "stargazers_count": 8468,
+    "open_issues_count": 95,
+    "forks_count": 778
   },
   {
     "full_name": "meh/rust-tun",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "allegroai/clearml",
-    "stargazers_count": 5592,
+    "stargazers_count": 5601,
     "open_issues_count": 489,
     "forks_count": 649
   },
@@ -91,43 +91,43 @@
   },
   {
     "full_name": "ente-io/ente",
-    "stargazers_count": 14643,
-    "open_issues_count": 206,
-    "forks_count": 758
+    "stargazers_count": 14878,
+    "open_issues_count": 217,
+    "forks_count": 768
   },
   {
     "full_name": "GREsau/schemars",
-    "stargazers_count": 801,
-    "open_issues_count": 111,
+    "stargazers_count": 803,
+    "open_issues_count": 112,
     "forks_count": 225
   },
   {
     "full_name": "loco-rs/loco",
-    "stargazers_count": 4015,
-    "open_issues_count": 62,
-    "forks_count": 169
+    "stargazers_count": 4056,
+    "open_issues_count": 65,
+    "forks_count": 171
   },
   {
     "full_name": "emanuelef/daily-stars-explorer",
     "stargazers_count": 85,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 0
   },
   {
     "full_name": "regclient/regclient",
-    "stargazers_count": 1243,
+    "stargazers_count": 1247,
     "open_issues_count": 16,
     "forks_count": 91
   },
   {
     "full_name": "oras-project/rust-oci-client",
     "stargazers_count": 93,
-    "open_issues_count": 19,
+    "open_issues_count": 22,
     "forks_count": 49
   },
   {
     "full_name": "tamasfe/aide",
-    "stargazers_count": 395,
+    "stargazers_count": 396,
     "open_issues_count": 22,
     "forks_count": 62
   },
@@ -139,14 +139,14 @@
   },
   {
     "full_name": "getzola/zola",
-    "stargazers_count": 13500,
-    "open_issues_count": 292,
-    "forks_count": 943
+    "stargazers_count": 13522,
+    "open_issues_count": 296,
+    "forks_count": 945
   },
   {
     "full_name": "atuinsh/atuin",
-    "stargazers_count": 20286,
-    "open_issues_count": 253,
+    "stargazers_count": 20325,
+    "open_issues_count": 255,
     "forks_count": 549
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "Schniz/fnm",
-    "stargazers_count": 17634,
-    "open_issues_count": 235,
-    "forks_count": 447
+    "stargazers_count": 17680,
+    "open_issues_count": 238,
+    "forks_count": 449
   },
   {
     "full_name": "erxes/erxes",
-    "stargazers_count": 3507,
-    "open_issues_count": 407,
-    "forks_count": 1115
+    "stargazers_count": 3509,
+    "open_issues_count": 406,
+    "forks_count": 1114
   }
 ]
