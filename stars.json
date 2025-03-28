@@ -13,25 +13,25 @@
   },
   {
     "full_name": "kafka-rust/kafka-rust",
-    "stargazers_count": 1310,
+    "stargazers_count": 1313,
     "open_issues_count": 52,
     "forks_count": 136
   },
   {
     "full_name": "robusta-dev/holmesgpt",
-    "stargazers_count": 760,
-    "open_issues_count": 39,
-    "forks_count": 75
+    "stargazers_count": 773,
+    "open_issues_count": 38,
+    "forks_count": 77
   },
   {
     "full_name": "odoo/odoo",
-    "stargazers_count": 41541,
-    "open_issues_count": 7503,
-    "forks_count": 26964
+    "stargazers_count": 41612,
+    "open_issues_count": 7594,
+    "forks_count": 27014
   },
   {
     "full_name": "saphyr-rs/saphyr",
-    "stargazers_count": 104,
+    "stargazers_count": 105,
     "open_issues_count": 16,
     "forks_count": 10
   },
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "chartdb/chartdb",
-    "stargazers_count": 14416,
-    "open_issues_count": 93,
-    "forks_count": 713
+    "stargazers_count": 14447,
+    "open_issues_count": 91,
+    "forks_count": 717
   },
   {
     "full_name": "jj-vcs/jj",
-    "stargazers_count": 11960,
-    "open_issues_count": 605,
-    "forks_count": 428
+    "stargazers_count": 12017,
+    "open_issues_count": 604,
+    "forks_count": 432
   },
   {
     "full_name": "eshelyaron/kubed",
@@ -79,27 +79,27 @@
   },
   {
     "full_name": "celery/kombu",
-    "stargazers_count": 2971,
-    "open_issues_count": 237,
+    "stargazers_count": 2973,
+    "open_issues_count": 238,
     "forks_count": 945
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 34680,
-    "open_issues_count": 463,
-    "forks_count": 2119
+    "stargazers_count": 34772,
+    "open_issues_count": 465,
+    "forks_count": 2133
   },
   {
     "full_name": "EmbarkStudios/cargo-deny",
-    "stargazers_count": 1894,
+    "stargazers_count": 1899,
     "open_issues_count": 65,
     "forks_count": 91
   },
   {
     "full_name": "actix/actix",
-    "stargazers_count": 8796,
+    "stargazers_count": 8805,
     "open_issues_count": 36,
-    "forks_count": 658
+    "forks_count": 659
   },
   {
     "full_name": "siketyan/hyper-proxy2",
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "rust-cli/config-rs",
-    "stargazers_count": 2810,
+    "stargazers_count": 2811,
     "open_issues_count": 127,
     "forks_count": 228
   },
@@ -117,19 +117,19 @@
     "full_name": "daytonaio/daytona",
     "stargazers_count": 14735,
     "open_issues_count": 83,
-    "forks_count": 1387
+    "forks_count": 1385
   },
   {
     "full_name": "meh/rust-tun",
-    "stargazers_count": 435,
-    "open_issues_count": 9,
-    "forks_count": 153
+    "stargazers_count": 437,
+    "open_issues_count": 10,
+    "forks_count": 154
   },
   {
     "full_name": "clearml/clearml",
-    "stargazers_count": 5893,
+    "stargazers_count": 5904,
     "open_issues_count": 521,
-    "forks_count": 671
+    "forks_count": 672
   },
   {
     "full_name": "simonask/libyaml-safer",
@@ -139,20 +139,20 @@
   },
   {
     "full_name": "ente-io/ente",
-    "stargazers_count": 18433,
-    "open_issues_count": 320,
-    "forks_count": 1019
+    "stargazers_count": 18472,
+    "open_issues_count": 324,
+    "forks_count": 1020
   },
   {
     "full_name": "GREsau/schemars",
-    "stargazers_count": 951,
+    "stargazers_count": 955,
     "open_issues_count": 133,
     "forks_count": 251
   },
   {
     "full_name": "loco-rs/loco",
-    "stargazers_count": 7445,
-    "open_issues_count": 46,
+    "stargazers_count": 7459,
+    "open_issues_count": 41,
     "forks_count": 304
   },
   {
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "regclient/regclient",
-    "stargazers_count": 1440,
+    "stargazers_count": 1446,
     "open_issues_count": 15,
     "forks_count": 98
   },
   {
     "full_name": "oras-project/rust-oci-client",
     "stargazers_count": 113,
-    "open_issues_count": 21,
+    "open_issues_count": 20,
     "forks_count": 59
   },
   {
     "full_name": "tamasfe/aide",
-    "stargazers_count": 463,
+    "stargazers_count": 467,
     "open_issues_count": 26,
     "forks_count": 79
   }
