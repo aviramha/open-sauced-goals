@@ -7,25 +7,25 @@
   },
   {
     "full_name": "googleapis/google-cloud-rust",
-    "stargazers_count": 858,
-    "open_issues_count": 204,
-    "forks_count": 99
+    "stargazers_count": 861,
+    "open_issues_count": 207,
+    "forks_count": 98
   },
   {
     "full_name": "cloudflare/capnweb",
-    "stargazers_count": 3559,
-    "open_issues_count": 18,
-    "forks_count": 107
+    "stargazers_count": 3565,
+    "open_issues_count": 17,
+    "forks_count": 109
   },
   {
     "full_name": "apple/containerization",
-    "stargazers_count": 8212,
+    "stargazers_count": 8225,
     "open_issues_count": 46,
-    "forks_count": 237
+    "forks_count": 239
   },
   {
     "full_name": "brizzai/auto-mcp",
-    "stargazers_count": 184,
+    "stargazers_count": 185,
     "open_issues_count": 22,
     "forks_count": 21
   },
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "HolmesGPT/holmesgpt",
-    "stargazers_count": 1598,
-    "open_issues_count": 155,
-    "forks_count": 213
+    "stargazers_count": 1607,
+    "open_issues_count": 164,
+    "forks_count": 214
   },
   {
     "full_name": "odoo/odoo",
-    "stargazers_count": 48139,
-    "open_issues_count": 9089,
-    "forks_count": 30950
+    "stargazers_count": 48286,
+    "open_issues_count": 9135,
+    "forks_count": 30979
   },
   {
     "full_name": "saphyr-rs/saphyr",
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "dimkr/tootik",
-    "stargazers_count": 190,
-    "open_issues_count": 20,
+    "stargazers_count": 191,
+    "open_issues_count": 19,
     "forks_count": 7
   },
   {
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "chartdb/chartdb",
-    "stargazers_count": 20697,
+    "stargazers_count": 20720,
     "open_issues_count": 121,
-    "forks_count": 1210
+    "forks_count": 1212
   },
   {
     "full_name": "jj-vcs/jj",
-    "stargazers_count": 24152,
-    "open_issues_count": 959,
-    "forks_count": 864
+    "stargazers_count": 24264,
+    "open_issues_count": 962,
+    "forks_count": 869
   },
   {
     "full_name": "eshelyaron/kubed",
@@ -109,25 +109,25 @@
   },
   {
     "full_name": "celery/kombu",
-    "stargazers_count": 3092,
+    "stargazers_count": 3091,
     "open_issues_count": 235,
     "forks_count": 973
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 42670,
-    "open_issues_count": 602,
-    "forks_count": 3177
+    "stargazers_count": 42840,
+    "open_issues_count": 599,
+    "forks_count": 3197
   },
   {
     "full_name": "EmbarkStudios/cargo-deny",
-    "stargazers_count": 2145,
-    "open_issues_count": 87,
+    "stargazers_count": 2147,
+    "open_issues_count": 88,
     "forks_count": 113
   },
   {
     "full_name": "actix/actix",
-    "stargazers_count": 9097,
+    "stargazers_count": 9098,
     "open_issues_count": 42,
     "forks_count": 666
   },
@@ -139,27 +139,27 @@
   },
   {
     "full_name": "rust-cli/config-rs",
-    "stargazers_count": 3066,
+    "stargazers_count": 3068,
     "open_issues_count": 138,
-    "forks_count": 257
+    "forks_count": 258
   },
   {
     "full_name": "daytonaio/daytona",
-    "stargazers_count": 41564,
-    "open_issues_count": 273,
-    "forks_count": 3815
+    "stargazers_count": 42997,
+    "open_issues_count": 283,
+    "forks_count": 3877
   },
   {
     "full_name": "meh/rust-tun",
     "stargazers_count": 630,
     "open_issues_count": 11,
-    "forks_count": 171
+    "forks_count": 172
   },
   {
     "full_name": "clearml/clearml",
-    "stargazers_count": 6429,
+    "stargazers_count": 6435,
     "open_issues_count": 546,
-    "forks_count": 724
+    "forks_count": 727
   },
   {
     "full_name": "simonask/libyaml-safer",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "ente-io/ente",
-    "stargazers_count": 23575,
-    "open_issues_count": 504,
-    "forks_count": 1390
+    "stargazers_count": 23708,
+    "open_issues_count": 506,
+    "forks_count": 1397
   },
   {
     "full_name": "GREsau/schemars",
-    "stargazers_count": 1237,
-    "open_issues_count": 98,
+    "stargazers_count": 1243,
+    "open_issues_count": 99,
     "forks_count": 284
   }
 ]
