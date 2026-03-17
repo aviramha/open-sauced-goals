@@ -7,15 +7,15 @@
   },
   {
     "full_name": "metalbear-co/skills",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "cheat-engine/cheat-engine",
-    "stargazers_count": 17911,
+    "stargazers_count": 17935,
     "open_issues_count": 1266,
-    "forks_count": 2520
+    "forks_count": 2521
   },
   {
     "full_name": "moshebe/gebug",
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "googleapis/google-cloud-rust",
-    "stargazers_count": 901,
-    "open_issues_count": 217,
+    "stargazers_count": 903,
+    "open_issues_count": 219,
     "forks_count": 114
   },
   {
     "full_name": "cloudflare/capnweb",
-    "stargazers_count": 3647,
-    "open_issues_count": 14,
-    "forks_count": 115
+    "stargazers_count": 3681,
+    "open_issues_count": 16,
+    "forks_count": 117
   },
   {
     "full_name": "apple/containerization",
-    "stargazers_count": 8395,
+    "stargazers_count": 8404,
     "open_issues_count": 44,
-    "forks_count": 258
+    "forks_count": 259
   },
   {
     "full_name": "brizzai/auto-mcp",
@@ -63,23 +63,23 @@
     "full_name": "kafka-rust/kafka-rust",
     "stargazers_count": 1424,
     "open_issues_count": 56,
-    "forks_count": 147
+    "forks_count": 148
   },
   {
     "full_name": "HolmesGPT/holmesgpt",
-    "stargazers_count": 1964,
-    "open_issues_count": 225,
-    "forks_count": 258
+    "stargazers_count": 1978,
+    "open_issues_count": 232,
+    "forks_count": 261
   },
   {
     "full_name": "odoo/odoo",
-    "stargazers_count": 49485,
-    "open_issues_count": 9512,
-    "forks_count": 31779
+    "stargazers_count": 49568,
+    "open_issues_count": 9482,
+    "forks_count": 31828
   },
   {
     "full_name": "saphyr-rs/saphyr",
-    "stargazers_count": 298,
+    "stargazers_count": 299,
     "open_issues_count": 42,
     "forks_count": 36
   },
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "chartdb/chartdb",
-    "stargazers_count": 21505,
-    "open_issues_count": 142,
-    "forks_count": 1289
+    "stargazers_count": 21526,
+    "open_issues_count": 141,
+    "forks_count": 1290
   },
   {
     "full_name": "jj-vcs/jj",
-    "stargazers_count": 26713,
-    "open_issues_count": 1020,
-    "forks_count": 955
+    "stargazers_count": 26863,
+    "open_issues_count": 1026,
+    "forks_count": 962
   },
   {
     "full_name": "eshelyaron/kubed",
@@ -127,25 +127,25 @@
   },
   {
     "full_name": "celery/kombu",
-    "stargazers_count": 3108,
-    "open_issues_count": 230,
-    "forks_count": 989
+    "stargazers_count": 3109,
+    "open_issues_count": 227,
+    "forks_count": 991
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 46526,
-    "open_issues_count": 689,
-    "forks_count": 3702
+    "stargazers_count": 46653,
+    "open_issues_count": 692,
+    "forks_count": 3730
   },
   {
     "full_name": "EmbarkStudios/cargo-deny",
-    "stargazers_count": 2236,
+    "stargazers_count": 2240,
     "open_issues_count": 84,
-    "forks_count": 117
+    "forks_count": 118
   },
   {
     "full_name": "actix/actix",
-    "stargazers_count": 9167,
+    "stargazers_count": 9169,
     "open_issues_count": 36,
     "forks_count": 668
   },
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "rust-cli/config-rs",
-    "stargazers_count": 3110,
-    "open_issues_count": 138,
-    "forks_count": 262
+    "stargazers_count": 3111,
+    "open_issues_count": 139,
+    "forks_count": 263
   },
   {
     "full_name": "daytonaio/daytona",
-    "stargazers_count": 64409,
-    "open_issues_count": 350,
-    "forks_count": 5069
+    "stargazers_count": 65951,
+    "open_issues_count": 344,
+    "forks_count": 5076
   },
   {
     "full_name": "meh/rust-tun",
-    "stargazers_count": 648,
+    "stargazers_count": 651,
     "open_issues_count": 13,
     "forks_count": 175
   },
   {
     "full_name": "clearml/clearml",
-    "stargazers_count": 6564,
-    "open_issues_count": 567,
-    "forks_count": 750
+    "stargazers_count": 6571,
+    "open_issues_count": 570,
+    "forks_count": 756
   }
 ]
