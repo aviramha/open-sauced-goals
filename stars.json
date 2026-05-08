@@ -1,15 +1,15 @@
 [
   {
     "full_name": "zizmorcore/zizmor",
-    "stargazers_count": 4451,
-    "open_issues_count": 132,
-    "forks_count": 178
+    "stargazers_count": 4486,
+    "open_issues_count": 130,
+    "forks_count": 179
   },
   {
     "full_name": "manaflow-ai/cmux",
-    "stargazers_count": 16169,
-    "open_issues_count": 1539,
-    "forks_count": 1212
+    "stargazers_count": 16441,
+    "open_issues_count": 1617,
+    "forks_count": 1258
   },
   {
     "full_name": "metalbear-co/sandcastle",
@@ -31,33 +31,33 @@
   },
   {
     "full_name": "cheat-engine/cheat-engine",
-    "stargazers_count": 18196,
-    "open_issues_count": 1282,
-    "forks_count": 2555
+    "stargazers_count": 18216,
+    "open_issues_count": 1284,
+    "forks_count": 2557
   },
   {
     "full_name": "moshebe/gebug",
-    "stargazers_count": 634,
+    "stargazers_count": 633,
     "open_issues_count": 15,
     "forks_count": 17
   },
   {
     "full_name": "googleapis/google-cloud-rust",
-    "stargazers_count": 919,
-    "open_issues_count": 208,
-    "forks_count": 129
+    "stargazers_count": 918,
+    "open_issues_count": 211,
+    "forks_count": 131
   },
   {
     "full_name": "cloudflare/capnweb",
-    "stargazers_count": 3793,
-    "open_issues_count": 23,
-    "forks_count": 124
+    "stargazers_count": 3796,
+    "open_issues_count": 20,
+    "forks_count": 126
   },
   {
     "full_name": "apple/containerization",
-    "stargazers_count": 8521,
-    "open_issues_count": 48,
-    "forks_count": 275
+    "stargazers_count": 8529,
+    "open_issues_count": 49,
+    "forks_count": 276
   },
   {
     "full_name": "brizzai/auto-mcp",
@@ -79,21 +79,21 @@
   },
   {
     "full_name": "kafka-rust/kafka-rust",
-    "stargazers_count": 1436,
+    "stargazers_count": 1437,
     "open_issues_count": 55,
     "forks_count": 149
   },
   {
     "full_name": "HolmesGPT/holmesgpt",
-    "stargazers_count": 2356,
-    "open_issues_count": 235,
-    "forks_count": 329
+    "stargazers_count": 2378,
+    "open_issues_count": 240,
+    "forks_count": 333
   },
   {
     "full_name": "odoo/odoo",
-    "stargazers_count": 50464,
-    "open_issues_count": 9670,
-    "forks_count": 32268
+    "stargazers_count": 50530,
+    "open_issues_count": 9650,
+    "forks_count": 32308
   },
   {
     "full_name": "saphyr-rs/saphyr",
@@ -110,7 +110,7 @@
   {
     "full_name": "dimkr/tootik",
     "stargazers_count": 201,
-    "open_issues_count": 14,
+    "open_issues_count": 13,
     "forks_count": 7
   },
   {
@@ -121,21 +121,21 @@
   },
   {
     "full_name": "boasiHQ/interactive-inputs",
-    "stargazers_count": 46,
+    "stargazers_count": 45,
     "open_issues_count": 15,
     "forks_count": 6
   },
   {
     "full_name": "chartdb/chartdb",
-    "stargazers_count": 22119,
+    "stargazers_count": 22142,
     "open_issues_count": 152,
-    "forks_count": 1386
+    "forks_count": 1387
   },
   {
     "full_name": "jj-vcs/jj",
-    "stargazers_count": 28543,
-    "open_issues_count": 1073,
-    "forks_count": 1033
+    "stargazers_count": 28628,
+    "open_issues_count": 1075,
+    "forks_count": 1036
   },
   {
     "full_name": "eshelyaron/kubed",
@@ -145,20 +145,20 @@
   },
   {
     "full_name": "celery/kombu",
-    "stargazers_count": 3112,
+    "stargazers_count": 3111,
     "open_issues_count": 225,
     "forks_count": 1002
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 48735,
+    "stargazers_count": 48871,
     "open_issues_count": 770,
-    "forks_count": 4152
+    "forks_count": 4173
   },
   {
     "full_name": "EmbarkStudios/cargo-deny",
-    "stargazers_count": 2286,
-    "open_issues_count": 83,
+    "stargazers_count": 2288,
+    "open_issues_count": 86,
     "forks_count": 119
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "rust-cli/config-rs",
-    "stargazers_count": 3144,
+    "stargazers_count": 3145,
     "open_issues_count": 139,
-    "forks_count": 265
+    "forks_count": 264
   }
 ]
