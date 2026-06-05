@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "pydantic/monty",
+    "stargazers_count": 7301,
+    "open_issues_count": 64,
+    "forks_count": 325
+  },
+  {
     "full_name": "zizmorcore/zizmor",
-    "stargazers_count": 5457,
-    "open_issues_count": 139,
-    "forks_count": 211
+    "stargazers_count": 5493,
+    "open_issues_count": 142,
+    "forks_count": 212
   },
   {
     "full_name": "manaflow-ai/cmux",
-    "stargazers_count": 20718,
-    "open_issues_count": 2320,
-    "forks_count": 1552
+    "stargazers_count": 21000,
+    "open_issues_count": 2422,
+    "forks_count": 1590
   },
   {
     "full_name": "metalbear-co/sandcastle",
@@ -31,32 +37,32 @@
   },
   {
     "full_name": "cheat-engine/cheat-engine",
-    "stargazers_count": 18370,
-    "open_issues_count": 1285,
-    "forks_count": 2574
+    "stargazers_count": 18379,
+    "open_issues_count": 1287,
+    "forks_count": 2577
   },
   {
     "full_name": "moshebe/gebug",
-    "stargazers_count": 632,
-    "open_issues_count": 16,
+    "stargazers_count": 631,
+    "open_issues_count": 18,
     "forks_count": 17
   },
   {
     "full_name": "googleapis/google-cloud-rust",
     "stargazers_count": 924,
-    "open_issues_count": 214,
+    "open_issues_count": 217,
     "forks_count": 130
   },
   {
     "full_name": "cloudflare/capnweb",
-    "stargazers_count": 3824,
-    "open_issues_count": 26,
-    "forks_count": 129
+    "stargazers_count": 3826,
+    "open_issues_count": 27,
+    "forks_count": 131
   },
   {
     "full_name": "apple/containerization",
-    "stargazers_count": 8566,
-    "open_issues_count": 50,
+    "stargazers_count": 8568,
+    "open_issues_count": 49,
     "forks_count": 283
   },
   {
@@ -85,21 +91,21 @@
   },
   {
     "full_name": "HolmesGPT/holmesgpt",
-    "stargazers_count": 2544,
-    "open_issues_count": 260,
-    "forks_count": 359
+    "stargazers_count": 2566,
+    "open_issues_count": 266,
+    "forks_count": 365
   },
   {
     "full_name": "odoo/odoo",
-    "stargazers_count": 51797,
-    "open_issues_count": 9770,
-    "forks_count": 32613
+    "stargazers_count": 52195,
+    "open_issues_count": 9801,
+    "forks_count": 32688
   },
   {
     "full_name": "saphyr-rs/saphyr",
     "stargazers_count": 314,
     "open_issues_count": 49,
-    "forks_count": 37
+    "forks_count": 38
   },
   {
     "full_name": "bearcove/merde",
@@ -109,8 +115,8 @@
   },
   {
     "full_name": "dimkr/tootik",
-    "stargazers_count": 204,
-    "open_issues_count": 15,
+    "stargazers_count": 203,
+    "open_issues_count": 16,
     "forks_count": 7
   },
   {
@@ -127,15 +133,15 @@
   },
   {
     "full_name": "chartdb/chartdb",
-    "stargazers_count": 22301,
-    "open_issues_count": 152,
-    "forks_count": 1412
+    "stargazers_count": 22324,
+    "open_issues_count": 153,
+    "forks_count": 1416
   },
   {
     "full_name": "jj-vcs/jj",
-    "stargazers_count": 29294,
-    "open_issues_count": 1121,
-    "forks_count": 1073
+    "stargazers_count": 29436,
+    "open_issues_count": 1123,
+    "forks_count": 1077
   },
   {
     "full_name": "eshelyaron/kubed",
@@ -145,25 +151,25 @@
   },
   {
     "full_name": "celery/kombu",
-    "stargazers_count": 3119,
-    "open_issues_count": 224,
+    "stargazers_count": 3120,
+    "open_issues_count": 227,
     "forks_count": 1003
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 50088,
-    "open_issues_count": 872,
-    "forks_count": 4393
+    "stargazers_count": 50319,
+    "open_issues_count": 883,
+    "forks_count": 4426
   },
   {
     "full_name": "EmbarkStudios/cargo-deny",
     "stargazers_count": 2324,
-    "open_issues_count": 87,
+    "open_issues_count": 88,
     "forks_count": 120
   },
   {
     "full_name": "actix/actix",
-    "stargazers_count": 9209,
+    "stargazers_count": 9211,
     "open_issues_count": 41,
     "forks_count": 672
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 14,
     "open_issues_count": 0,
     "forks_count": 7
-  },
-  {
-    "full_name": "rust-cli/config-rs",
-    "stargazers_count": 3163,
-    "open_issues_count": 141,
-    "forks_count": 265
   }
 ]
