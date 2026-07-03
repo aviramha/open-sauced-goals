@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "Razz4780/async-selector",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "pydantic/monty",
-    "stargazers_count": 7803,
-    "open_issues_count": 69,
-    "forks_count": 380
+    "stargazers_count": 7816,
+    "open_issues_count": 72,
+    "forks_count": 378
   },
   {
     "full_name": "zizmorcore/zizmor",
-    "stargazers_count": 5752,
-    "open_issues_count": 145,
+    "stargazers_count": 5775,
+    "open_issues_count": 143,
     "forks_count": 221
   },
   {
     "full_name": "manaflow-ai/cmux",
-    "stargazers_count": 23175,
-    "open_issues_count": 3061,
-    "forks_count": 1834
+    "stargazers_count": 23461,
+    "open_issues_count": 3126,
+    "forks_count": 1857
   },
   {
     "full_name": "metalbear-co/sandcastle",
@@ -37,8 +43,8 @@
   },
   {
     "full_name": "cheat-engine/cheat-engine",
-    "stargazers_count": 18548,
-    "open_issues_count": 1292,
+    "stargazers_count": 18568,
+    "open_issues_count": 1295,
     "forks_count": 2599
   },
   {
@@ -49,27 +55,27 @@
   },
   {
     "full_name": "googleapis/google-cloud-rust",
-    "stargazers_count": 933,
-    "open_issues_count": 218,
+    "stargazers_count": 934,
+    "open_issues_count": 223,
     "forks_count": 131
   },
   {
     "full_name": "cloudflare/capnweb",
-    "stargazers_count": 3851,
-    "open_issues_count": 29,
+    "stargazers_count": 3854,
+    "open_issues_count": 27,
     "forks_count": 135
   },
   {
     "full_name": "apple/containerization",
-    "stargazers_count": 8763,
-    "open_issues_count": 53,
-    "forks_count": 317
+    "stargazers_count": 8779,
+    "open_issues_count": 54,
+    "forks_count": 318
   },
   {
     "full_name": "brizzai/auto-mcp",
     "stargazers_count": 192,
     "open_issues_count": 22,
-    "forks_count": 21
+    "forks_count": 20
   },
   {
     "full_name": "yogeek/kubernetes-local-development",
@@ -91,20 +97,20 @@
   },
   {
     "full_name": "HolmesGPT/holmesgpt",
-    "stargazers_count": 2755,
-    "open_issues_count": 320,
-    "forks_count": 393
+    "stargazers_count": 2781,
+    "open_issues_count": 327,
+    "forks_count": 398
   },
   {
     "full_name": "odoo/odoo",
-    "stargazers_count": 52721,
-    "open_issues_count": 9994,
-    "forks_count": 32941
+    "stargazers_count": 52796,
+    "open_issues_count": 10081,
+    "forks_count": 32986
   },
   {
     "full_name": "saphyr-rs/saphyr",
-    "stargazers_count": 322,
-    "open_issues_count": 49,
+    "stargazers_count": 323,
+    "open_issues_count": 50,
     "forks_count": 39
   },
   {
@@ -133,15 +139,15 @@
   },
   {
     "full_name": "chartdb/chartdb",
-    "stargazers_count": 22510,
+    "stargazers_count": 22530,
     "open_issues_count": 159,
-    "forks_count": 1434
+    "forks_count": 1432
   },
   {
     "full_name": "jj-vcs/jj",
-    "stargazers_count": 29877,
-    "open_issues_count": 1160,
-    "forks_count": 1111
+    "stargazers_count": 29997,
+    "open_issues_count": 1164,
+    "forks_count": 1114
   },
   {
     "full_name": "eshelyaron/kubed",
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "celery/kombu",
-    "stargazers_count": 3124,
-    "open_issues_count": 227,
+    "stargazers_count": 3126,
+    "open_issues_count": 228,
     "forks_count": 1003
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 53549,
-    "open_issues_count": 952,
-    "forks_count": 4807
+    "stargazers_count": 53725,
+    "open_issues_count": 950,
+    "forks_count": 4835
   },
   {
     "full_name": "EmbarkStudios/cargo-deny",
-    "stargazers_count": 2352,
-    "open_issues_count": 86,
-    "forks_count": 124
+    "stargazers_count": 2356,
+    "open_issues_count": 90,
+    "forks_count": 125
   },
   {
     "full_name": "actix/actix",
     "stargazers_count": 9223,
-    "open_issues_count": 36,
-    "forks_count": 675
-  },
-  {
-    "full_name": "siketyan/hyper-proxy2",
-    "stargazers_count": 14,
-    "open_issues_count": 0,
-    "forks_count": 7
+    "open_issues_count": 42,
+    "forks_count": 674
   }
 ]
