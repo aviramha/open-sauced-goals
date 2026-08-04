@@ -13,21 +13,21 @@
   },
   {
     "full_name": "pydantic/monty",
-    "stargazers_count": 7967,
-    "open_issues_count": 99,
-    "forks_count": 397
+    "stargazers_count": 7981,
+    "open_issues_count": 96,
+    "forks_count": 396
   },
   {
     "full_name": "zizmorcore/zizmor",
-    "stargazers_count": 5959,
-    "open_issues_count": 152,
-    "forks_count": 227
+    "stargazers_count": 5976,
+    "open_issues_count": 158,
+    "forks_count": 228
   },
   {
     "full_name": "manaflow-ai/cmux",
-    "stargazers_count": 25405,
-    "open_issues_count": 3888,
-    "forks_count": 2115
+    "stargazers_count": 25552,
+    "open_issues_count": 3967,
+    "forks_count": 2142
   },
   {
     "full_name": "metalbear-co/sandcastle",
@@ -44,14 +44,14 @@
   {
     "full_name": "metalbear-co/skills",
     "stargazers_count": 21,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "cheat-engine/cheat-engine",
-    "stargazers_count": 18841,
+    "stargazers_count": 18873,
     "open_issues_count": 1303,
-    "forks_count": 2686
+    "forks_count": 2697
   },
   {
     "full_name": "moshebe/gebug",
@@ -62,26 +62,26 @@
   {
     "full_name": "googleapis/google-cloud-rust",
     "stargazers_count": 941,
-    "open_issues_count": 236,
+    "open_issues_count": 231,
     "forks_count": 137
   },
   {
     "full_name": "cloudflare/capnweb",
-    "stargazers_count": 3864,
-    "open_issues_count": 25,
+    "stargazers_count": 3865,
+    "open_issues_count": 27,
     "forks_count": 134
   },
   {
     "full_name": "apple/containerization",
-    "stargazers_count": 8849,
+    "stargazers_count": 8861,
     "open_issues_count": 67,
-    "forks_count": 335
+    "forks_count": 336
   },
   {
     "full_name": "brizzai/auto-mcp",
-    "stargazers_count": 193,
+    "stargazers_count": 194,
     "open_issues_count": 23,
-    "forks_count": 21
+    "forks_count": 22
   },
   {
     "full_name": "yogeek/kubernetes-local-development",
@@ -99,24 +99,24 @@
     "full_name": "kafka-rust/kafka-rust",
     "stargazers_count": 1447,
     "open_issues_count": 55,
-    "forks_count": 149
+    "forks_count": 150
   },
   {
     "full_name": "HolmesGPT/holmesgpt",
-    "stargazers_count": 2969,
-    "open_issues_count": 365,
-    "forks_count": 426
+    "stargazers_count": 2997,
+    "open_issues_count": 373,
+    "forks_count": 428
   },
   {
     "full_name": "odoo/odoo",
-    "stargazers_count": 53387,
-    "open_issues_count": 10313,
-    "forks_count": 33303
+    "stargazers_count": 53466,
+    "open_issues_count": 10300,
+    "forks_count": 33328
   },
   {
     "full_name": "saphyr-rs/saphyr",
-    "stargazers_count": 328,
-    "open_issues_count": 33,
+    "stargazers_count": 329,
+    "open_issues_count": 35,
     "forks_count": 41
   },
   {
@@ -128,7 +128,7 @@
   {
     "full_name": "dimkr/tootik",
     "stargazers_count": 204,
-    "open_issues_count": 17,
+    "open_issues_count": 18,
     "forks_count": 7
   },
   {
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "chartdb/chartdb",
-    "stargazers_count": 22668,
-    "open_issues_count": 163,
-    "forks_count": 1452
+    "stargazers_count": 22685,
+    "open_issues_count": 165,
+    "forks_count": 1455
   },
   {
     "full_name": "jj-vcs/jj",
-    "stargazers_count": 30738,
-    "open_issues_count": 1180,
-    "forks_count": 1153
+    "stargazers_count": 30797,
+    "open_issues_count": 1188,
+    "forks_count": 1160
   },
   {
     "full_name": "eshelyaron/kubed",
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "celery/kombu",
-    "stargazers_count": 3133,
+    "stargazers_count": 3134,
     "open_issues_count": 234,
     "forks_count": 1019
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 55265,
-    "open_issues_count": 969,
-    "forks_count": 5161
+    "stargazers_count": 55427,
+    "open_issues_count": 982,
+    "forks_count": 5204
   },
   {
     "full_name": "EmbarkStudios/cargo-deny",
-    "stargazers_count": 2389,
+    "stargazers_count": 2391,
     "open_issues_count": 82,
     "forks_count": 126
   }
