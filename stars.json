@@ -2,7 +2,7 @@
   {
     "full_name": "maple-kit/maple",
     "stargazers_count": 21,
-    "open_issues_count": 81,
+    "open_issues_count": 82,
     "forks_count": 3
   },
   {
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "pydantic/monty",
-    "stargazers_count": 8760,
-    "open_issues_count": 193,
-    "forks_count": 471
+    "stargazers_count": 8789,
+    "open_issues_count": 205,
+    "forks_count": 475
   },
   {
     "full_name": "zizmorcore/zizmor",
-    "stargazers_count": 6757,
+    "stargazers_count": 6792,
     "open_issues_count": 171,
-    "forks_count": 272
+    "forks_count": 274
   },
   {
     "full_name": "manaflow-ai/cmux",
-    "stargazers_count": 28363,
-    "open_issues_count": 3578,
-    "forks_count": 2571
+    "stargazers_count": 28539,
+    "open_issues_count": 3733,
+    "forks_count": 2586
   },
   {
     "full_name": "metalbear-co/sandcastle",
@@ -62,14 +62,14 @@
   {
     "full_name": "metalbear-co/skills",
     "stargazers_count": 29,
-    "open_issues_count": 1,
+    "open_issues_count": 3,
     "forks_count": 7
   },
   {
     "full_name": "cheat-engine/cheat-engine",
-    "stargazers_count": 19370,
-    "open_issues_count": 1325,
-    "forks_count": 2849
+    "stargazers_count": 19386,
+    "open_issues_count": 1320,
+    "forks_count": 2851
   },
   {
     "full_name": "moshebe/gebug",
@@ -79,21 +79,21 @@
   },
   {
     "full_name": "googleapis/google-cloud-rust",
-    "stargazers_count": 963,
-    "open_issues_count": 273,
-    "forks_count": 153
+    "stargazers_count": 965,
+    "open_issues_count": 267,
+    "forks_count": 155
   },
   {
     "full_name": "cloudflare/capnweb",
-    "stargazers_count": 4024,
-    "open_issues_count": 35,
+    "stargazers_count": 4028,
+    "open_issues_count": 36,
     "forks_count": 150
   },
   {
     "full_name": "apple/containerization",
-    "stargazers_count": 8985,
-    "open_issues_count": 108,
-    "forks_count": 394
+    "stargazers_count": 8996,
+    "open_issues_count": 115,
+    "forks_count": 401
   },
   {
     "full_name": "brizzai/auto-mcp",
@@ -117,25 +117,25 @@
     "full_name": "kafka-rust/kafka-rust",
     "stargazers_count": 1455,
     "open_issues_count": 54,
-    "forks_count": 152
+    "forks_count": 153
   },
   {
     "full_name": "HolmesGPT/holmesgpt",
-    "stargazers_count": 3669,
-    "open_issues_count": 457,
-    "forks_count": 548
+    "stargazers_count": 3702,
+    "open_issues_count": 459,
+    "forks_count": 555
   },
   {
     "full_name": "odoo/odoo",
-    "stargazers_count": 55266,
-    "open_issues_count": 11070,
-    "forks_count": 34086
+    "stargazers_count": 55356,
+    "open_issues_count": 11201,
+    "forks_count": 34117
   },
   {
     "full_name": "saphyr-rs/saphyr",
     "stargazers_count": 339,
-    "open_issues_count": 36,
-    "forks_count": 53
+    "open_issues_count": 26,
+    "forks_count": 56
   },
   {
     "full_name": "bearcove/merde",
@@ -145,8 +145,8 @@
   },
   {
     "full_name": "dimkr/tootik",
-    "stargazers_count": 210,
-    "open_issues_count": 20,
+    "stargazers_count": 211,
+    "open_issues_count": 21,
     "forks_count": 7
   },
   {
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "chartdb/chartdb",
-    "stargazers_count": 23012,
-    "open_issues_count": 175,
-    "forks_count": 1505
+    "stargazers_count": 23028,
+    "open_issues_count": 176,
+    "forks_count": 1506
   },
   {
     "full_name": "jj-vcs/jj",
-    "stargazers_count": 32208,
-    "open_issues_count": 1250,
-    "forks_count": 1260
+    "stargazers_count": 32253,
+    "open_issues_count": 1263,
+    "forks_count": 1265
   },
   {
     "full_name": "eshelyaron/kubed",
